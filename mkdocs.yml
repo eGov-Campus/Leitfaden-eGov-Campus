@@ -52,6 +52,7 @@ nav:
   - Home: 'index.md'
   - Kursdesign:
     - Kurse konzipieren: 'kursdesign/kursdesign.md'
+    - Neues Video einpflegen: 'kursdesign/video.md'
   - LMS:
     - Einführung ins LMS: 'lms/lms.md'
   - Über den eGov-Campus: 'about.md'
