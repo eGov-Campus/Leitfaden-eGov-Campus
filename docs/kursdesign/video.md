@@ -5,7 +5,7 @@ Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Videoelement e
 
 		![Navigation Kursübersicht](/screenshots/Navigation_zur_Kursstruktur.png)
 		
-Wie füge ich hier ein Foto ein?Url falsch
+Wie füge ich hier ein Foto ein? Url falsch
 
 **2. Titel und Typ**
 
@@ -15,7 +15,7 @@ Auf der nächsten Seite haben Sie nun die folgenden Optionen:
 Am Anfang müssen Sie einen Titel für das Item - in diesem Fall Ihr Video - angeben. 
 
 **Erweiterte Einstellungen:** 
-Unter den erweiterten Einstellungen können Sie nun noch ein Start und/oder ein Enddatum angeben. Wenn Sie das Video erst ab einem bestimmten Zeitpunkt freischalten möchten, können Sie ein Startdatum angeben. Soll das Video nur bis zu einem bestimmten Zeitpunkt verfügbar sein, können Sie ein Enddatum angeben. Diese Einstellungen ist optional. 
+Unter den erweiterten Einstellungen können Sie nun noch ein Start- und/oder ein Enddatum angeben. Wenn Sie das Video erst ab einem bestimmten Zeitpunkt freischalten möchten, können Sie ein Startdatum angeben. Soll das Video nur bis zu einem bestimmten Zeitpunkt verfügbar sein, können Sie ein Enddatum angeben. Diese Einstellungen ist optional. 
 
 **Veröffentlicht:** 
 Hier entscheinden Sie, ob das Video veröffentlicht werden soll. In diesem Kontext bedeutet das, dass das Video direkt, nachdem Sie es angelegt haben, für die Kursteilnehmer sichtbar gemacht wird. Sollten Sie den Schalter auf "aus" stellen, können Sie zu einem späteren Zeitpunkt das Video für die Kursteilnehmer sichtbar machen. 
