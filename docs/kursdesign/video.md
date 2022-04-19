@@ -24,4 +24,4 @@ Hier entscheinden Sie, ob das Video veröffentlicht werden soll. In diesem Konte
 Dieser Button funktioniert nur, wenn das Video auch veröffentlicht wurde. Dadurch wird eingestellt, dass das Video auch an dem vorgesehenen Punkt sichtbar ist. Diese Einstellung zu **aktivieren** wird **empfohlen**. Andernfalls ist das Video nur über einen direkten Link abrufbar.
 
 **Optional** 
-Damit markieren Sie, dass das Anschauen des Videos nur optional ist. Dies zu aktivieren, eignet sich unter anderem, wenn man Hintergrundwissen vermitteln möchte oder einen tieferen Einblick in ein Thema zu geben, das nicht notwendig für den Abschluss des Kurses ist. 
+Damit markieren Sie, dass das Anschauen des Videos nur optional ist. Dies zu aktivieren, eignet sich unter anderem, wenn man Hintergrundwissen vermitteln  oder einen tieferen Einblick in ein Thema geben möchte, das nicht notwendig für den Abschluss des Kurses ist. 
