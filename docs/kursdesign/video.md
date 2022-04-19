@@ -34,3 +34,9 @@ Dieser Button funktioniert nur, wenn das Video auch veröffentlicht wurde. Dadur
 **Optional:** 
 
 Damit markieren Sie, dass das Anschauen des Videos nur optional ist. Dies zu aktivieren, eignet sich unter anderem, wenn man Hintergrundwissen vermitteln  oder einen tieferen Einblick in ein Thema geben möchte, das nicht notwendig für den Abschluss des Kurses ist. 
+
+Ausschließlich beim Video kommen noch die folgenden dazu.
+
+Hervorheben
+
+Open Mode erlaubt 
