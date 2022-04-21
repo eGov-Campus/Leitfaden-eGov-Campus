@@ -98,62 +98,39 @@ Zum Hinzufügen von Quizfragen, klicken Sie bitte auf Quizfragen.
 ![Quizfragen](/images/items/Quizfragen.png)
 
 1. Bitte wählen Sie einen der vier Fragentypen aus. 
-	- **Single Select:** Nur eine Antwort ist richtig
-	- **Multi Select:** Mehrere Antworten möglich
-	- **Freitext** Hier kurze Antworten in Textfeldern ausgewertet werden. Weitere Anleitung s. u.  
-	- **Essay:** Hier kann ein Text eingetragen werden, der manuell bewertet werden muss. (Oft als Freitext bekannt)
+	1. **Single Select:** Nur eine Antwort ist richtig (Multiple Choice)
+	2. **Multi Select:** Mehrere Antworten möglich
+	3. **Freitext** Hier kurze Antworten in Textfeldern ausgewertet werden. 
+	4. **Essay:** Hier kann ein Text eingetragen werden, der manuell bewertet werden muss. (Oft als Freitext bekannt)
 
-<!---
-### 3.1 Video einpflegen
+2. Anlegen einer Frage
 
-Unter "Video Daten" können *optional* die zugehörigen Videos ausgewählt werden. Dabei ist zu unterscheiden, um welche Art von Video/Videos es sich handelt.
+	**Fragestellung:** Unter Fragestellung können Sie (bei Wunsch im Markdown-Format) Fragen angegeben werden. 
 
-<table border="0">
-<tr>
-	<th>Variante 1: Ein Video</th>
-	<th>Variante 2: Zwei Videos (Folien & Personenaufnahme)</th>
-</tr>
-<tr>
-	<td>Das Video muss dann nur bei "Pip stream" ausgewählt werden.</td>
-	<td>
-		<p>Das Video <strong>mit Ton</strong> muss als Lecturer stream ausgewählt werden. 
-			(In der Regel ist das das Video mit dem/ der SprecherIn.)</P>
-		<p>Das Video mit den Slides wird unter Slides stream ausgewählt. 
-		Der Ton beim Slides stream wird immer stumm geschaltet. </P>
-	</td>
-</tr>
-</table>
+	**Erläuterung:** Hier können weitere Erläuterungen zur Frage (oder Tipps) angegeben werden. Diese können die Teilnehmer einblenden. 
 
-###3.2 Untertitel
+	**Punkte**: Punkte für die Aufgabe (nach Schwierigkeit)
 
-*Untertitel sind optional*
+	**Recap-Modus** Was ist das??
 
-Um Untertitel bereitzustellen, können Sie die folgenden Möglichkeiten nutzen:
+3. Anlegen von Antworten
 
-1. Subtitled Stream
+	**Zu Single und Multi Select:**
 
-	Mit dieser Variante wird eine eigene Videodatei mit Untertiteln hochgeladen. Diese wird jedoch nicht als Video zusätzlich im Player angeboten, sondern kann nur über den Download-Button in dem Webplayer abgerufen werden. Daher ist nach Möglichkeit Variante 2 zu bevorzugen. 
-
-2. Subtitels 
-
-	Hier können Sie die Untertitel-Datei hochladen. Die Untertitel können dann im Webplayer vom Nutzer ausgewählt werden. 
-
-Eine Kombination beider Varianten ist möglich.
-
-##4. Zusätzliche Dateien
-
-Hier können weitere Dateien den Nutzern bereitgestellt werden. Diese werden angezeigt als:
-
-- "Slides" wird den Nutzern angezeigt als "Präsentationsfolien als PDF"
-- "Transcript" wird den Nutzern angezeigt als "Transkript als PDF"
-- "Reading material" wird den Nutzern angezeigt als "Lesematerial"
-
+	Unterhalb jeder Frage finden Sie den Button "Neue Antwort". Nachdem Sie auf diesen geklickt haben, öffnet sich ein Menü. Dort können Sie nun eine der Antwortmöglichkeiten angeben und optional noch eine Erläuterung hinzufügen. Richtige Antworten müssen mit "Antwort ist richtig" über dem "Antwort erstellen" Button gekennzeichnet werden.
+	
+	**Besonderheiten zu Freitext-Aufgaben:**
+	
+	Hier werden keine Antworten den Nutzern angeboten. Die Antworten, die Sie angeben, sind mögliche, richtige Antworten. Beachten Sie bitte auch, dass es verschiedene Schreibweisen für die Antworten Ihrer Fragen geben kann, z. B. "2" und "zwei". 
+	
+	**Besonderheiten zu Essay-Aufgaben**
+	
+	Bei Textantworten kann keine automatische Analyse erfolgen. Hier muss eine manuelle Korrektur durchgeführt werden. Diese Fragemöglichkeit sollte bei Selbsttests vermieden werden. 
 
 ##5. Änderungen abspeichern
 
-- Um Änderungen zu speichern, klicken Sie auf "Item Speichern". Sie bleiben danach auf der selben Seite
-- Um Änderungen nach dem speichern anzusehen, klicken Sie auf "Item Speichern und Anzeigen".
-- "Dieses Video mit allen Providern syncronisieren" -> ?
-- "Miniaturbilder des Videos (neu) erstellen" erstellt die Vorschaubilder des Players neu. 
+- Um Änderungen zu speichern, klicken Sie auf "Item Speichern". Sie bleiben danach auf der selben Seite.
+- Um Änderungen nach dem speichern anzusehen, klicken Sie auf "Item speichern und anzeigen".
 
--->
+
+

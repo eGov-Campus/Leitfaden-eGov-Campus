@@ -96,6 +96,6 @@ Hier können weitere Dateien den Nutzern bereitgestellt werden. Diese werden ang
 ##5. Änderungen abspeichern
 
 - Um Änderungen zu speichern, klicken Sie auf "Item Speichern". Sie bleiben danach auf der selben Seite
-- Um Änderungen nach dem speichern anzusehen, klicken Sie auf "Item Speichern und Anzeigen".
-- "Dieses Video mit allen Providern syncronisieren" -> ?
+- Um Änderungen nach dem speichern anzusehen, klicken Sie auf "Item speichern und anzeigen".
+- "Dieses Video mit allen Providern synchronisieren" -> ?
 - "Miniaturbilder des Videos (neu) erstellen" erstellt die Vorschaubilder des Players neu. 
