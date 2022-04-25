@@ -2,7 +2,7 @@
 
 Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Videoelement einer Sektion (hier später Link einfügen für Sektion erstellen) hinzuzufügen. Klicken Sie bei der passenden Sektion auf "Neues Item".
 
-![Navigation Kursübersicht](/images/video/Navigation_zur_Kursstruktur.png)
+![Navigation Kursübersicht](/images/items/Navigation_zur_Kursstruktur.png)
 		
 
 
