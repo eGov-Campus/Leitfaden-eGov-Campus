@@ -55,7 +55,7 @@ nav:
     - Neues Video einpflegen: 'kursdesign/video.md'
     - Quiz anlegen: 'kursdesign/quiz.md'
     - Externes Video einbetten: 'kursdesign/video-extern.md'
-    
+    - YouTube-Video einbetten: 'kursdesign/youtube.md'
     
   - LMS:
     - Einführung ins LMS: 'lms/lms.md'

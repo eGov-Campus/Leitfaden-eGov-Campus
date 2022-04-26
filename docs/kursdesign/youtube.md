@@ -36,7 +36,7 @@ Damit markieren Sie, dass das Anschauen des Videos nur optional ist. Dies zu akt
 
 Sobald man als Typ "Video" auswählt, werden weitere Einstellungen sichtbar.
 
-##3. Einstellungen für externes Video
+##3. Einstellungen für YouTube-Videos
 
 ### 3.1 Icon Typ einstellen
 
@@ -59,7 +59,7 @@ Anschließend können Sie noch die Maße des Videos in der Seite anpassen. Dazu 
 
 Wahlweise können Sie auch eine Kombination aus Video und Text vornehmen. Beispielsweise können Sie unterhalb des Videos weitere Informationen bereitstellen oder weiterführende Informationsquellen angeben. 
 
-Bei Fragen dazu verweisen wir auf die folgende Anleitung. 
+Bei Fragen dazu verweisen wir auf die folgende Anleitung:
 
 ##4. Beispiel 
 
