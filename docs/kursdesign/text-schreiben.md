@@ -1,38 +1,66 @@
 #Markdown Guide
 
-##Überschrift
+Mit dieser Anleitung möchten wir Ihnen eine kurze Einführung für die Nutzung von Markdown geben, um Schrift in dem Kurs passend zu formatieren. Dafür werden wir eine Übersicht der Befehle/Schreibweisen anzeigen und diese mit einem Kommentar weiter erläutern. 
 
-<h1>H1  <code># H1</code></h1>
+##Was ist Markdown?
 
-<h2>H2 <code>## H2</code></h2>
+Markdown ist prinzipiell eine Schreibweise, um Text zu formatieren. Diese wird dann später für die Website passend kombiniert. 
 
-<h3>H3 <code>### H3</code></h3>
+##Überschriften
 
-<h4>H4 <code>#### H4</code></h4>
+<h1>Überschrift1  <code># H1</code></h1>
 
-<h5>H5 <code>##### H5</code></h5>
+<h2>Überschrift2 <code>## H2</code></h2>
 
-<h6>H6 <code>###### H6</code></h6>
+<h3>Überschrift3 <code>### H3</code></h3>
 
-##Absatz und Zeilenumbruch
+<h4>Überschrift4 <code>#### H4</code></h4>
 
-<p>Ich bin ein </p>
+<h5>Überschrift5 <code>##### H5</code></h5>
 
-<p>Absatz (Zwei Zeilenumbrüche)</p>
+<h6>Überschrift6 <code>###### H6</code></h6>
 
-<p>Ich bin ein (erzwungener)<br>
-Zeilenumbruch (Zwei Leerzeichen am Zeilenende, vor dem gewünschten Umbruch)</p>
 
-<p>Ich bin 
-garnichts (Einfach nur ein Zeilenumbruch)</p>
 
-<h2>Horizontale Linien</h2>
+##Absatz- und Zeilenumbrüche
+
+<code></code>
+
+- Ein Absatz entsteht durch **2** Zeilenumbrüche
+- Einen Zeilenumbruch kann man erzwingen, wenn man 2 Leerzeichen vor dem Zeilenende einfügt und danach einmal ENTER drückt.
+
+##Horizontale Linien
 
 <hr>
 
-<p>Eine Linie kann über drei aufeinanderfolgende Bindestriche erzeugt werden.</p>
+Eine Linie kann über drei aufeinander folgende Bindestriche erzeugt werden, also <code>---</code> :
+---
 
-<h2>Listen</h2>
+
+##Listen
+
+Für Listen gibt es verschiedene Möglichkeiten.
+
+###Stichpunkte / ungeordnete Liste
+
+Eine ungeordnete Liste - also Stichpunkte - schreibt man mit einem Bindestrich, Leerzeichen und dann dem Text: <code>- Dies ist ein Stichpunkt</code>
+
+Das sieht dann so aus:
+- Dies ist ein Stichpunkt
+
+
+Stichpunkte kann man auch einrücken. Dazu müssen Sie ein Tabulator-Taste vorher nutzen, damit die Einrückung erkannt wird.
+
+Beispiel:
+<code>- Stichpunkt</code>
+	<code>- Eingerückter Stichpunkt
+- Wieder ein normaler Stichpunkt
+
+
+- Stichpunkt
+	- Eingerückter Stichpunkt
+- Wieder ein normaler Stichpunkt
+
 
 <ul>
 <li>Ich </li>
