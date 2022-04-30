@@ -39,7 +39,7 @@ Damit markieren Sie, dass das Bearbeiten des Quiz nur optional ist. Dies zu akti
 
 ##3. Text-Item erstellen
 
-Um ein Text-Item zu erstellen, wählen Sie bitte als Item "Text" aus. Den Subtyp lassen Sie bitte unberührt. 
+Um ein Text-Item zu erstellen, wählen Sie bitte als Item "Text" aus. Den Icon-Typ lassen Sie bitte unberührt. 
 
 In das Textfeld können Sie nun Texte schreiben und einfügen. Allerdings können Sie den Text auch so anpassen, dass Sie mit einfachen Befehlen den Text formatieren (Überschriften, fettgedrukt, kursiv etc.) aber auch Tabellen und Bilder einfügen. In diese Textbefehle, genannt Markdown, möchten wir Ihnen nachfolgend einen Einblick geben. 
 
@@ -73,16 +73,14 @@ Markdown ist prinzipiell eine Schreibweise, um Text zu formatieren. Diese wird d
 
 ##Absatz- und Zeilenumbrüche
 
-<code></code>
-
 - Ein Absatz entsteht durch **2** Zeilenumbrüche
 - Einen Zeilenumbruch kann man erzwingen, wenn man 2 Leerzeichen vor dem Zeilenende einfügt und danach einmal ENTER drückt.
 
 ##Horizontale Linien
 
-<hr>
 
 Eine Linie kann über drei aufeinander folgende Bindestriche erzeugt werden, also <code>---</code> :
+
 ---
 
 
@@ -92,9 +90,12 @@ Für Listen gibt es zwei verschiedene Möglichkeiten: Ungeordnete Listen (Stichp
 
 ###Stichpunkte / ungeordnete Liste
 
-Eine ungeordnete Liste - also Stichpunkte - schreibt man mit einem Bindestrich, Leerzeichen und dann dem Text: <code>- Dies ist ein Stichpunkt</code>
+Eine ungeordnete Liste - also Stichpunkte - schreibt man mit einem Bindestrich, Leerzeichen und dann dem Text:
+
+<code>- Dies ist ein Stichpunkt</code>
 
 Das sieht dann so aus:
+
 - Dies ist ein Stichpunkt
 
 
@@ -108,27 +109,16 @@ Beispiel:
 
 <code>- Wieder ein normaler Stichpunkt</code>
 
+---
+
+Das sieht dann so aus:
+
 - Stichpunkt
 	- Eingerückter Stichpunkt
 - Wieder ein normaler Stichpunkt
 
 
-<ul>
-<li>Ich </li>
-<li>bin 
-
-<ul>
-<li>eine </li>
-<li>ungeordnete</li>
-</ul></li>
-<li>Liste </li>
-</ul>
-
-<p><code>- Ich</code> (Leerzeichen + Bindestrich)<br>
-<code>- bin</code> (Leerzeichen + Bindestrich)<br>
-&nbsp;&nbsp;&nbsp;<code>- eine</code>  (Für Hierarchieebenen zusätzliche Leerzeichen)<br>
-&nbsp;&nbsp;&nbsp;<code>- ungeordnete</code>(einfügen)<br>
-<code>- Liste</code> (bzw. wieder wegnehmen) </p>
+###Nummerierte Liste / geordnete Liste
 
 <ol>
 <li>Ich </li>
@@ -140,44 +130,52 @@ b. geordnete </li>
 
 <p><code>1. Ich</code> (Leerzeichen + 1.)<br>
 <code>2. bin</code> (Leerzeichen + 2.)<br>
-&nbsp;&nbsp;&nbsp;<code>a. eine</code>  (Für Hierarchieebenen zusätzliche Leerzeichen)<br>
+&nbsp;&nbsp;&nbsp;<code>a. eine</code>  (Für untergeordnete Ebenen zusätzliche Leerzeichen)<br>
 &nbsp;&nbsp;&nbsp;<code>b. geordnete</code>(einfügen)<br>
 <code>3. Liste</code> (bzw. wieder wegnehmen) </p>
 
-<p>Gerade verschachtelte Listen können etwas tricky sein. Im Zweifel muss man etwas mit den Leerzeichen experimentieren. Es empfiehlt sich auch vor der Liste einen Absatz einzufügen. </p>
+Gerade verschachtelte Listen können etwas tricky sein. Im Zweifel muss man etwas mit den Leerzeichen experimentieren. Es empfiehlt sich auch vor der Liste einen Absatz einzufügen.
 
-<h2>Links</h2>
+##Links
 
-<p>Links werden am besten mittels des Link Tools in der Tool-Leiste eingefügt. Komplette URLs werden in der Regel zwar auch automatisch in Links konvertiert, verhalten sich aber nicht immer identisch zu explizit angelegten Links.</p>
+Links werden am einfachsten mit dem **Link Tool** in der Tool-Leiste eingefügt. Klicken Sie dafür auf das Linksymbol und geben Sie nach dem angezeigten Schema die Adresse und die Bezeichnung an.
+Sie können aber auch das, was Ihnen ausgegeben wird, selbst nach dem folgenden Schema einfügen:
 
-<p>Hier ist das <a target="_blank" rel="noopener" href="https://mooc.house/go/link?url=https%3A%2F%2Fwww.google.de%2Fmaps%2Fplace%2FHasso%2BPlattner%2BInstitute%2F%4052.3939998%2C13.1311717%2C17z%2Fdata%3D%213m1%214b1%214m5%213m4%211s0x47a85f365d286349%3A0x1da4e14975e45e72%218m2%213d52.3939965%214d13.1333657&checksum=aad0f93&tracking_type=rich_text_item_link&tracking_id=39c63dff-abf9-4157-81f3-0b7b50fa8856&tracking_course_id=bbd72c9c-e830-4029-8459-21913f553ab4">HPI</a>.</p>
+<p><code> [Anzeigename](Link) </code></p>
 
-<p>Explizit angelegte Links bestehen aus zwei Komponenten:  </p>
+Beispiel:
+<p><code> Hier finden Sie die [eGov Campus Homepage](https://egov-campus.org/) </code></p>
 
-<ol>
-<li><p>Der Aufruf des Links im Text<br>
-[HPI][1]</p></li>
-<li><p>Die Definition des Links am Ende des Texts (für den Nutzer nicht sichtbar)<br>
-[1]: <a href="https://www.google.de/maps/place/Hasso+Plattner+Institute/@52.3939998,13.1311717,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85f365d286349:0x1da4e14975e45e72!8m2!3d52.3939965!4d13.1333657">https://www.google.de/maps/place/Hasso+Plattner+Institute/@52.3939998,13.1311717,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85f365d286349:0x1da4e14975e45e72!8m2!3d52.3939965!4d13.1333657</a></p></li>
-</ol>
+as wird dann wie folgt angezeigt:
 
-<h2>Bilder</h2>
+Hier finden Sie die [eGov Campus Homepage](https://egov-campus.org/)
 
-<p>Bilder werden mittels der Drop-Area rechts zunächst hochgeladen und stehen dann im Kontext der aktuellen Textseite über den &quot;Bild einfügen&quot; Button zur Verfügung. hochgeladene Bilder werden erst dann persistiert wenn das Bild tatsächlich in den Text eingebunden wurde. Nicht verwendete Bilder werden früher oder später wieder vom Server gelöscht.</p>
 
-<p>Bilder werden mittels des Image-Selectors in der Tool-Leiste der Text-Area eingebunden.</p>
 
-<p>Das eingefügte Bild wird im Text folgendermaßen dargestellt:<br>
-![enter image description here][1]</p>
+###Bilder
 
-<p>Hier muss der Text in den vorderen eckigen Klammern:<br>
-&quot;enter image description here&quot;<br>
-durch einen dem Bild entsprechenden Alt-Text getauscht werden.<br>
-![Plastikschaf auf Rasenmähroboter][1]</p>
+Bilder werden mit der Drop-Area rechts zunächst hochgeladen und stehen dann in der aktuellen Textseite über den Bild-einfügen-Button zur Verfügung. Hochgeladene Bilder werden erst dann gespeichert wenn das Bild tatsächlich in den Text eingebunden wurde. Nicht verwendete Bilder werden wieder vom Server gelöscht.
 
-<p><img src="https://s3.xopic.de/moochouse-public/courses/5IrTNQ46jTgyCZkhYpzOYI/rtfiles/7mIXt6yWtw4ILOvNdnVATS/dolly.png" alt="Plastikschaf auf Rasenmähroboter"></p>
+Um das Bild dann an der passenden Stelle einzufügen, klicken Sie bitte auf das Bild-Symbol in der Tool-Leiste. 
 
-<h2>Downloads</h2>
+Es wird dann wie folgt dargestellt:
+
+<code>![enter image description here][1]</code>
+
+Hier werden Sie mit einer Zahl anstatt eines Links angezeigt. Der Anzeigetext (wenn man mit der Maus auf dem Bild ist) sollte dann in die ersten Klammern eingefügt werden.
+
+Alternativ können Sie auch Bilder einfügen, indem Sie die **Grafikadresse** eines Bildes einfügen, dass bereits auf einer anderen Homepage besteht. 
+
+Das funktioniert dann ähnlich wie zuvor gezeigt. Bitte beachten Sie, dass hier nun aber "()"-Klammern verwendet werden:
+
+<p><code> ![Weiterbildung Symbolbild](https://egov-campus.org/sites/default/files/kic_front/category_header/junger_mann_an_laptop.jpg)</code></p>
+
+
+Darstellung:
+
+![Weiterbildung Symbolbild](https://egov-campus.org/sites/default/files/kic_front/category_header/junger_mann_an_laptop.jpg)
+
+##Downloads
 
 <p>Andere Dateiformate die zum Download bereitgestellt werden sollen, werden identisch zu den Bildern eingebunden. </p>
 
