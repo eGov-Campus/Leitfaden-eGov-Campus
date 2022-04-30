@@ -1,8 +1,57 @@
-#Markdown Guide
+#Textabschnitte
+
+##1. Neues Item erstellen
+
+Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Quiz einer Sektion (hier später Link einfügen für Sektion erstellen) hinzuzufügen. Klicken Sie bei der passenden Sektion auf "Neues Item".
+
+![Navigation Kursübersicht](/images/items/Navigation_zur_Kursstruktur.png)
+		
+
+
+##2. Einstellungen
+
+Auf der nächsten Seite haben Sie nun die folgenden Optionen:
+
+
+**Titel:** 
+
+Am Anfang müssen Sie einen Titel für das Item - in diesem Fall Ihr Quiz - angeben. 
+
+
+**Erweiterte Einstellungen:** 
+
+Unter den erweiterten Einstellungen können Sie nun noch ein Start- und/oder ein Enddatum angeben. Wenn Sie das Quiz erst ab einem bestimmten Zeitpunkt freischalten möchten, können Sie ein Startdatum angeben. Soll das Quiz nur bis zu einem bestimmten Zeitpunkt verfügbar sein, können Sie ein Enddatum angeben. Diese Einstellungen ist optional. 
+
+
+**Veröffentlicht:** 
+
+Hier entscheiden Sie, ob das Quiz veröffentlicht werden soll. In diesem Kontext bedeutet das, dass das Quiz direkt, nachdem Sie es angelegt haben, für die Kursteilnehmer sichtbar gemacht wird. Sollten Sie den Schalter auf "aus" stellen, können Sie zu einem späteren Zeitpunkt das Quiz für die Kursteilnehmer sichtbar machen. 
+
+
+**In der Kursnavigation zeigen:** 
+
+Dieser Button funktioniert nur, wenn das Quiz auch veröffentlicht wurde. Dadurch wird eingestellt, dass das Quiz auch an dem vorgesehenen Punkt sichtbar ist. Diese Einstellung zu **aktivieren** wird **empfohlen**. Andernfalls ist das Quiz nur über einen direkten Link abrufbar.
+
+**Optional:** 
+
+Damit markieren Sie, dass das Bearbeiten des Quiz nur optional ist. Dies zu aktivieren, eignet sich unter anderem, wenn man Hintergrundwissen vermitteln  oder einen tieferen Einblick in ein Thema geben möchte, das nicht notwendig für den Abschluss des Kurses ist. 
+
+
+##3. Text-Item erstellen
+
+Um ein Text-Item zu erstellen, wählen Sie bitte als Item "Text" aus. Den Subtyp lassen Sie bitte unberührt. 
+
+In das Textfeld können Sie nun Texte schreiben und einfügen. Allerdings können Sie den Text auch so anpassen, dass Sie mit einfachen Befehlen den Text formatieren (Überschriften, fettgedrukt, kursiv etc.) aber auch Tabellen und Bilder einfügen. In diese Textbefehle, genannt Markdown, möchten wir Ihnen nachfolgend einen Einblick geben. 
+
+Auch HTML-Code wird in den Textfeldern unterstützt und darf gerne verwendet werden.
+
+Sie werden bei weiteren Möglichkeiten sonst auch mit der Suchmaschine Ihrer Wahl fündig.
+
+##4.1 Markdown Guide <-- Text ist doppelt
 
 Mit dieser Anleitung möchten wir Ihnen eine kurze Einführung für die Nutzung von Markdown geben, um Schrift in dem Kurs passend zu formatieren. Dafür werden wir eine Übersicht der Befehle/Schreibweisen anzeigen und diese mit einem Kommentar weiter erläutern. 
 
-##Was ist Markdown?
+###4.2 Was ist Markdown?
 
 Markdown ist prinzipiell eine Schreibweise, um Text zu formatieren. Diese wird dann später für die Website passend kombiniert. 
 
@@ -39,7 +88,7 @@ Eine Linie kann über drei aufeinander folgende Bindestriche erzeugt werden, als
 
 ##Listen
 
-Für Listen gibt es verschiedene Möglichkeiten.
+Für Listen gibt es zwei verschiedene Möglichkeiten: Ungeordnete Listen (Stichpunkte) und geordnete Listen (nummeriert)
 
 ###Stichpunkte / ungeordnete Liste
 
@@ -52,10 +101,12 @@ Das sieht dann so aus:
 Stichpunkte kann man auch einrücken. Dazu müssen Sie ein Tabulator-Taste vorher nutzen, damit die Einrückung erkannt wird.
 
 Beispiel:
-<code>- Stichpunkt</code>
-	<code>- Eingerückter Stichpunkt
-- Wieder ein normaler Stichpunkt
 
+<code>- Stichpunkt</code>
+
+&nbsp;&nbsp;&nbsp;<code>- Eingerückter Stichpunkt</code>
+
+<code>- Wieder ein normaler Stichpunkt</code>
 
 - Stichpunkt
 	- Eingerückter Stichpunkt
