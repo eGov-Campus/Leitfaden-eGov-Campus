@@ -35,7 +35,7 @@ Dieser Button funktioniert nur, wenn das Quiz auch veröffentlicht wurde. Dadurc
 Damit markieren Sie, dass das Bearbeiten des Quiz nur optional ist. Dies zu aktivieren, eignet sich unter anderem, wenn man Hintergrundwissen vermitteln  oder einen tieferen Einblick in ein Thema geben möchte, das nicht notwendig für den Abschluss des Kurses ist. 
 
 
-##3. Text-Item erstellen
+## 3. Text-Item erstellen
 
 Um ein Text-Item zu erstellen, wählen Sie bitte als Item "Text" aus. Den Icon-Typ lassen Sie bitte unberührt. 
 
@@ -45,15 +45,17 @@ Auch HTML-Code wird in den Textfeldern unterstützt und darf gerne verwendet wer
 
 Sie werden bei weiteren Möglichkeiten sonst auch mit der Suchmaschine Ihrer Wahl fündig.
 
-##4.1 Markdown Guide <-- Text ist doppelt
+## 4.1 Markdown Guide <-- Text ist doppelt
 
 Mit dieser Anleitung möchten wir Ihnen eine kurze Einführung für die Nutzung von Markdown geben, um Schrift in dem Kurs passend zu formatieren. Dafür werden wir eine Übersicht der Befehle/Schreibweisen anzeigen und diese mit einem Kommentar weiter erläutern. 
 
-###4.2 Was ist Markdown?
+### 4.2 Was ist Markdown?
 
 Markdown ist prinzipiell eine Schreibweise, um Text zu formatieren. Diese wird dann später für die Website passend kombiniert. 
 
-##Überschriften
+## Überschriften
+
+---
 
 <h1>Überschrift1  <code># H1</code></h1>
 
@@ -68,13 +70,12 @@ Markdown ist prinzipiell eine Schreibweise, um Text zu formatieren. Diese wird d
 <h6>Überschrift6 <code>###### H6</code></h6>
 
 
-
-##Absatz- und Zeilenumbrüche
+## Absatz- und Zeilenumbrüche
 
 - Ein Absatz entsteht durch **2** Zeilenumbrüche
 - Einen Zeilenumbruch kann man erzwingen, wenn man 2 Leerzeichen vor dem Zeilenende einfügt und danach einmal ENTER drückt.
 
-##Horizontale Linien
+## Horizontale Linien
 
 
 Eine Linie kann über drei aufeinander folgende Bindestriche erzeugt werden, also <code>---</code> :
@@ -82,11 +83,11 @@ Eine Linie kann über drei aufeinander folgende Bindestriche erzeugt werden, als
 ---
 
 
-##Listen
+## Listen
 
 Für Listen gibt es zwei verschiedene Möglichkeiten: Ungeordnete Listen (Stichpunkte) und geordnete Listen (nummeriert)
 
-###Stichpunkte / ungeordnete Liste
+### Stichpunkte / ungeordnete Liste
 
 Eine ungeordnete Liste - also Stichpunkte - schreibt man mit einem Bindestrich, Leerzeichen und dann dem Text:
 
@@ -99,7 +100,7 @@ Das sieht dann so aus:
 
 Stichpunkte kann man auch einrücken. Dazu müssen Sie ein Tabulator-Taste vorher nutzen, damit die Einrückung erkannt wird.
 
-Beispiel:
+**Beispiel:**
 
 <code>- Stichpunkt</code>
 
@@ -146,7 +147,7 @@ Beispiel:
 
 as wird dann wie folgt angezeigt:
 
-Hier finden Sie die [eGov Campus Homepage](https://egov-campus.org/)
+Hier finden Sie die [eGov Campus Homepage](https://egov-campus.org/).
 
 
 
@@ -200,6 +201,12 @@ Tabellen werden etwas komplizierter dargestellt.
 Vor der eigentlichen Erklärung möchte ich auf das Online-Tool [Tableconvert.com](https://tableconvert.com/) hinweisen. Hier können Sie die automatisch generieren lassen, was für viele etwas einfacher ist. Nachfolgend finden Sie die Code-Erklärung.
 
 ### Online Tool
+
+1. Besuchen Sie die Website [Tableconvert.com](https://tableconvert.com/)
+2. Tragen Sie erst die Größe der Tabelle ein
+
+![Beispiel Table Editor](/images/items/table-editor.png)
+
 
 ### selbst schreiben
 
