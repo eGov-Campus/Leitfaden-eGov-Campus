@@ -45,15 +45,15 @@ Auch HTML-Code wird in den Textfeldern unterstützt und darf gerne verwendet wer
 
 Sie werden bei weiteren Möglichkeiten sonst auch mit der Suchmaschine Ihrer Wahl fündig.
 
-## 4.1 Markdown Guide <-- Text ist doppelt
+## 4. Markdown Guide <-- Text ist doppelt
 
 Mit dieser Anleitung möchten wir Ihnen eine kurze Einführung für die Nutzung von Markdown geben, um Schrift in dem Kurs passend zu formatieren. Dafür werden wir eine Übersicht der Befehle/Schreibweisen anzeigen und diese mit einem Kommentar weiter erläutern. 
 
-### 4.2 Was ist Markdown?
+**Was ist Markdown?**
 
 Markdown ist prinzipiell eine Schreibweise, um Text zu formatieren. Diese wird dann später für die Website passend kombiniert. 
 
-## Überschriften
+## 4.1 Überschriften
 
 ---
 
@@ -70,12 +70,12 @@ Markdown ist prinzipiell eine Schreibweise, um Text zu formatieren. Diese wird d
 <h6>Überschrift6 <code>###### H6</code></h6>
 
 
-## Absatz- und Zeilenumbrüche
+## 4.2 Absatz- und Zeilenumbrüche
 
 - Ein Absatz entsteht durch **2** Zeilenumbrüche
 - Einen Zeilenumbruch kann man erzwingen, wenn man 2 Leerzeichen vor dem Zeilenende einfügt und danach einmal ENTER drückt.
 
-## Horizontale Linien
+## 4.3 Horizontale Linien
 
 
 Eine Linie kann über drei aufeinander folgende Bindestriche erzeugt werden, also <code>---</code> :
@@ -83,11 +83,11 @@ Eine Linie kann über drei aufeinander folgende Bindestriche erzeugt werden, als
 ---
 
 
-## Listen
+## 4.4 Listen
 
 Für Listen gibt es zwei verschiedene Möglichkeiten: Ungeordnete Listen (Stichpunkte) und geordnete Listen (nummeriert)
 
-### Stichpunkte / ungeordnete Liste
+### 4.4.1 Stichpunkte / ungeordnete Liste
 
 Eine ungeordnete Liste - also Stichpunkte - schreibt man mit einem Bindestrich, Leerzeichen und dann dem Text:
 
@@ -117,7 +117,7 @@ Das sieht dann so aus:
 - Wieder ein normaler Stichpunkt
 
 
-### Nummerierte Liste / geordnete Liste
+### 4.4.2 Nummerierte Liste / geordnete Liste
 
 <ol>
 <li>Ich </li>
@@ -135,7 +135,7 @@ b. geordnete </li>
 
 Gerade verschachtelte Listen können etwas tricky sein. Im Zweifel muss man etwas mit den Leerzeichen experimentieren. Es empfiehlt sich auch vor der Liste einen Absatz einzufügen.
 
-## Links
+## 4.5 Links
 
 Links werden am einfachsten mit dem **Link Tool** in der Tool-Leiste eingefügt. Klicken Sie dafür auf das Linksymbol und geben Sie nach dem angezeigten Schema die Adresse und die Bezeichnung an.
 Sie können aber auch das, was Ihnen ausgegeben wird, selbst nach dem folgenden Schema einfügen:
@@ -145,13 +145,13 @@ Sie können aber auch das, was Ihnen ausgegeben wird, selbst nach dem folgenden 
 Beispiel:
 <p><code> Hier finden Sie die [eGov Campus Homepage](https://egov-campus.org/) </code></p>
 
-as wird dann wie folgt angezeigt:
+Das wird dann wie folgt angezeigt:
 
 Hier finden Sie die [eGov Campus Homepage](https://egov-campus.org/).
 
 
 
-## Bilder
+## 4.6 Bilder
 
 Bilder werden mit der Drop-Area rechts zunächst hochgeladen und stehen dann in der aktuellen Textseite über den Bild-einfügen-Button zur Verfügung. Hochgeladene Bilder werden erst dann gespeichert wenn das Bild tatsächlich in den Text eingebunden wurde. Nicht verwendete Bilder werden wieder vom Server gelöscht.
 
@@ -174,7 +174,7 @@ Darstellung:
 
 ![Weiterbildung Symbolbild](https://egov-campus.org/sites/default/files/kic_front/category_header/junger_mann_an_laptop.jpg)
 
-## Downloads
+## 4.7 Downloads
 
 Andere Dateiformate die zum Download bereitgestellt werden sollen, werden sehr ähnlich wie die Bilder eingebunden (das "!" fehlt im Gegensatz zu Bildern).
 
@@ -194,61 +194,41 @@ Darstellung: [Beispiel Download](/images/items/Test.pdf)
 
 
 
-## Tabellen
+## 4.8 Tabellen
 
 Tabellen werden etwas komplizierter dargestellt. 
 
 Vor der eigentlichen Erklärung möchte ich auf das Online-Tool [Tableconvert.com](https://tableconvert.com/) hinweisen. Hier können Sie die automatisch generieren lassen, was für viele etwas einfacher ist. Nachfolgend finden Sie die Code-Erklärung.
 
-### Online Tool
+### 4.8.1 Online Tool nutzen
+Besuchen Sie bitte die Website [Tableconvert.com](https://tableconvert.com/)
 
-1. Besuchen Sie die Website [Tableconvert.com](https://tableconvert.com/)
-2. Tragen Sie erst die Größe der Tabelle ein
+1. Stellen Sie bitte erst die Größe der Tabelle ein
+2. Tragen Sie dann die Inhalte ein. Die erste Zeile wird automatisch als Überschriftenzeile eingestellt. Alternativ können Sie auch CSV-Dateien (Exel: Speichern unter -> als CSV) hochladen.
+3. IN den Feld unten wird Ihnen die Tabelle im Markdown-Format angezeigt. 
+4. Kopieren Sie den Text in die Zwischenablage und fügen Sie diesen in das Textfeld der eGov-Campus-Seite.
 
-![Beispiel Table Editor](/images/items/table-editor.png)
+![Beispiel Table Editor](/images/items/table_editor2.png)
 
 
-### selbst schreiben
-
+### 4.8.2 Mit Markdown-Code erstellen
 
 
 Die Markdown-Tabellen werden zeilenweise aufgeschrieben, also zum Beispiel 
-<code>|Tag|Monat|Jahr</code>
+<code>|Tag|Monat|Jahr|</code>. 
+
+Danach müssen Sie die erste Zeile noch als Überschrit kennzeichnen, indem Sie darunter Linien einfügen: <code>|-----|-------|------|</code>. Danach tragen Sie die Zeilen entsprechend wie wie erste Zeile unereinander ein, zum Beispiel: 
+<code>| 04  | 05    | 2000 |</code>
+
+In Gänze können Sie das auf dem oben gezeigten Screenshot sehen. 
+
+Ansicht für die Nutzer:
+
+| Tag | Monat | Jahr |
+|-----|-------|------|
+| 04  | 05    | 2000 |
+| 05  | 11    | 2000 |
+
+
+
 Hinweis: Der Strich wird über die Tastenkombination  <code>[AltGr]</code> + <code>[< > |]</code> (neben der <code>[SHIFT]</code>-Taste) erzeugt. 
-
-
-<table><thead>
-<tr>
-<th>Month</th>
-<th>Savings</th>
-<th>Spending</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>January</td>
-<td>$100</td>
-<td>$900</td>
-</tr>
-<tr>
-<td>July</td>
-<td>$750</td>
-<td>$1000</td>
-</tr>
-<tr>
-<td>December</td>
-<td>$250</td>
-<td>$300</td>
-</tr>
-<tr>
-<td>April</td>
-<td>$400</td>
-<td>$700</td>
-</tr>
-</tbody></table>
-
-<p>|Month|Savings|Spending|<br>
-|- - - |- - - |- - - |  (Leerzeichen sind nur zur besseren Lesbarkeit eingefügt)<br>
-|January|$100|$900|<br>
-|July|$750|$1000|<br>
-|December|$250|$300|<br>
-|April|$400|$700|  </p>
