@@ -15,8 +15,6 @@ Auf der nächsten Seite haben Sie nun die folgenden Optionen:
 
 **Titel:** 
 
-Am Anfang müssen Sie einen Titel für das Item - in diesem Fall Ihr Quiz - angeben. 
-
 
 **Erweiterte Einstellungen:** 
 
