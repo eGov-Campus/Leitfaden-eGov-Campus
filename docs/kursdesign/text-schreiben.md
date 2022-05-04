@@ -45,7 +45,7 @@ Auch HTML-Code wird in den Textfeldern unterstützt und darf gerne verwendet wer
 
 Sie werden bei weiteren Möglichkeiten sonst auch mit der Suchmaschine Ihrer Wahl fündig.
 
-## 4. Markdown Guide <-- Text ist doppelt
+## 4. Markdown Guide
 
 Mit dieser Anleitung möchten wir Ihnen eine kurze Einführung für die Nutzung von Markdown geben, um Schrift in dem Kurs passend zu formatieren. Dafür werden wir eine Übersicht der Befehle/Schreibweisen anzeigen und diese mit einem Kommentar weiter erläutern. 
 
