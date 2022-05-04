@@ -116,7 +116,7 @@ Das sieht dann so aus:
 - Wieder ein normaler Stichpunkt
 
 
-###Nummerierte Liste / geordnete Liste
+### Nummerierte Liste / geordnete Liste
 
 <ol>
 <li>Ich </li>
@@ -129,12 +129,12 @@ b. geordnete </li>
 <p><code>1. Ich</code> (Leerzeichen + 1.)<br>
 <code>2. bin</code> (Leerzeichen + 2.)<br>
 &nbsp;&nbsp;&nbsp;<code>a. eine</code>  (Für untergeordnete Ebenen zusätzliche Leerzeichen)<br>
-&nbsp;&nbsp;&nbsp;<code>b. geordnete</code>(einfügen)<br>
+&nbsp;&nbsp;&nbsp;<code>b. geordnete</code>  (einfügen)<br>
 <code>3. Liste</code> (bzw. wieder wegnehmen) </p>
 
 Gerade verschachtelte Listen können etwas tricky sein. Im Zweifel muss man etwas mit den Leerzeichen experimentieren. Es empfiehlt sich auch vor der Liste einen Absatz einzufügen.
 
-##Links
+## Links
 
 Links werden am einfachsten mit dem **Link Tool** in der Tool-Leiste eingefügt. Klicken Sie dafür auf das Linksymbol und geben Sie nach dem angezeigten Schema die Adresse und die Bezeichnung an.
 Sie können aber auch das, was Ihnen ausgegeben wird, selbst nach dem folgenden Schema einfügen:
@@ -150,7 +150,7 @@ Hier finden Sie die [eGov Campus Homepage](https://egov-campus.org/)
 
 
 
-###Bilder
+## Bilder
 
 Bilder werden mit der Drop-Area rechts zunächst hochgeladen und stehen dann in der aktuellen Textseite über den Bild-einfügen-Button zur Verfügung. Hochgeladene Bilder werden erst dann gespeichert wenn das Bild tatsächlich in den Text eingebunden wurde. Nicht verwendete Bilder werden wieder vom Server gelöscht.
 
@@ -173,19 +173,42 @@ Darstellung:
 
 ![Weiterbildung Symbolbild](https://egov-campus.org/sites/default/files/kic_front/category_header/junger_mann_an_laptop.jpg)
 
-##Downloads
+## Downloads
 
-<p>Andere Dateiformate die zum Download bereitgestellt werden sollen, werden identisch zu den Bildern eingebunden. </p>
+Andere Dateiformate die zum Download bereitgestellt werden sollen, werden sehr ähnlich wie die Bilder eingebunden (das "!" fehlt im Gegensatz zu Bildern).
 
-<p><img src="https://s3.xopic.de/moochouse-public/courses/5IrTNQ46jTgyCZkhYpzOYI/rtfiles/5uEwOdjFkmM3VheUmEYUCH/1_UploadTest-Ludwigshafen.pdf" alt="enter image description here"><br>
-![enter image description here][2]</p>
+Um das Downloads dann an der passenden Stelle einzufügen, klicken Sie bitte auf das Bild-Symbol in der Tool-Leiste. 
 
-<p>Im Nachgang muss das <code>!</code> vor den eckigen Klammern entfernt werden und ein vernünftiger Text zur Beschriftung des Download-Links eingefügt werden.</p>
+Es wird dann wie folgt dargestellt:
 
-<p><a target="_blank" rel="noopener" href="https://mooc.house/go/link?url=https%3A%2F%2Fs3.xopic.de%2Fmoochouse-public%2Fcourses%2F5IrTNQ46jTgyCZkhYpzOYI%2Frtfiles%2F5uEwOdjFkmM3VheUmEYUCH%2F1_UploadTest-Ludwigshafen.pdf&checksum=cf5a772&tracking_type=rich_text_item_link&tracking_id=39c63dff-abf9-4157-81f3-0b7b50fa8856&tracking_course_id=bbd72c9c-e830-4029-8459-21913f553ab4">Download</a><br>
-[Download][2]</p>
+<code>[enter file description here][1]</code>
 
-<h2>Tabellen</h2>
+Hier werden Sie mit einer Zahl anstatt eines Links angezeigt. Der Anzeigetext (also der blau dargestellte Text) sollte dann in die ersten Klammern eingefügt werden.
+
+Alternativ können Sie auch Downloads einfügen, indem Sie die **Adresse** einer Datei einfügen, dass bereits auf einer anderen Homepage besteht. 
+
+<p><code> [Beispiel Download](/images/items/Test.pdf)</code></p>
+
+Darstellung: [Beispiel Download](/images/items/Test.pdf)
+
+
+
+## Tabellen
+
+Tabellen werden etwas komplizierter dargestellt. 
+
+Vor der eigentlichen Erklärung möchte ich auf das Online-Tool [Tableconvert.com](https://tableconvert.com/) hinweisen. Hier können Sie die automatisch generieren lassen, was für viele etwas einfacher ist. Nachfolgend finden Sie die Code-Erklärung.
+
+### Online Tool
+
+### selbst schreiben
+
+
+
+Die Markdown-Tabellen werden zeilenweise aufgeschrieben, also zum Beispiel 
+<code>|Tag|Monat|Jahr</code>
+Hinweis: Der Strich wird über die Tastenkombination  <code>[AltGr]</code> + <code>[< > |]</code> (neben der <code>[SHIFT]</code>-Taste) erzeugt. 
+
 
 <table><thead>
 <tr>
