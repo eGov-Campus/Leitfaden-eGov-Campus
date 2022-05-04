@@ -128,13 +128,8 @@ b. geordnete </li>
 
 <p><code>1. Ich</code> (Leerzeichen + 1.)<br>
 <code>2. bin</code> (Leerzeichen + 2.)<br>
-<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;<code>a. eine</code>  (Für untergeordnete Ebenen zusätzliche Leerzeichen)<br>
 &nbsp;&nbsp;&nbsp;<code>b. geordnete</code>(einfügen)<br>
-=======
-&nbsp;&nbsp;&nbsp;<code>a. eine</code>  (Für Hierarchieebenen zusätzliche Leerzeichen)<br>
-&nbsp;&nbsp;&nbsp;<code>b. geordnete</code>  (einfügen)<br>
->>>>>>> b2e9bfc (minor changes)
 <code>3. Liste</code> (bzw. wieder wegnehmen) </p>
 
 Gerade verschachtelte Listen können etwas tricky sein. Im Zweifel muss man etwas mit den Leerzeichen experimentieren. Es empfiehlt sich auch vor der Liste einen Absatz einzufügen.
