@@ -217,7 +217,7 @@ Besuchen Sie bitte die Website [Tableconvert.com](https://tableconvert.com/)
 Die Markdown-Tabellen werden zeilenweise aufgeschrieben, also zum Beispiel 
 <code>|Tag|Monat|Jahr|</code>. 
 
-Danach müssen Sie die erste Zeile noch als Überschrit kennzeichnen, indem Sie darunter Linien einfügen: <code>|-----|-------|------|</code>. Danach tragen Sie die Zeilen entsprechend wie wie erste Zeile unereinander ein, zum Beispiel: 
+Danach müssen Sie die erste Zeile noch als Überschrift kennzeichnen, indem Sie darunter Linien einfügen: <code>|-----|-------|------|</code>. Danach tragen Sie die Zeilen entsprechend wie wie erste Zeile untereinander ein, zum Beispiel: 
 <code>| 04  | 05    | 2000 |</code>
 
 In Gänze können Sie das auf dem oben gezeigten Screenshot sehen. 
