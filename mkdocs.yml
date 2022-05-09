@@ -57,8 +57,10 @@ nav:
     - Text einfügen: 'kursdesign/text-schreiben.md'
     - Externes Video einbetten: 'kursdesign/video-extern.md'
     - YouTube-Video einbetten: 'kursdesign/youtube.md'
+    - Section erstellen: 'kursdesign/section.md'
     
   - LMS:
     - Einführung ins LMS: 'lms/lms.md'
   - Über den eGov-Campus: 'about.md'
+  - Feedback: 'feedback.md'
   
