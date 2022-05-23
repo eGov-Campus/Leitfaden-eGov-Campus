@@ -1,4 +1,4 @@
-site_name: Leitfaden Test
+site_name: Dokumentation eGov-Campus
 
 site_url:  http://egov-leitfaden.readthedocs.io/
 site_author: Ina Stein
@@ -18,6 +18,7 @@ extra_css:
 
 markdown_extensions:
   - attr_list
+  - def_list
   - md_in_html
   - admonition
   - pymdownx.details
@@ -52,15 +53,16 @@ nav:
   - Home: 'index.md'
   - Kursdesign:
     - Kurse konzipieren: 'kursdesign/kursdesign.md'
-    - Neues Video einpflegen: 'kursdesign/video.md'
-    - Quiz anlegen: 'kursdesign/quiz.md'
-    - Text einfügen: 'kursdesign/text-schreiben.md'
-    - Externes Video einbetten: 'kursdesign/video-extern.md'
-    - YouTube-Video einbetten: 'kursdesign/youtube.md'
-    - Section erstellen: 'kursdesign/section.md'
-    
-  - LMS:
+  - Plattform:
     - Einführung ins LMS: 'lms/lms.md'
-  - Über den eGov-Campus: 'about.md'
+    - Neues Video einpflegen: 'lms/video.md'
+    - Quiz anlegen: 'lms/quiz.md'
+    - Text einfügen: 'lms/text-schreiben.md'
+    - Externes Video einbetten: 'lms/video-extern.md'
+    - YouTube-Video einbetten: 'lms/youtube.md'
+    - Section erstellen: 'lms/section.md'
+    - Diskussionsforum: 'lms/diskussionsforum.md'
+  - FAQs: 'faq.md'
+  - Checklisten: 'chklist.md'
   - Feedback: 'feedback.md'
-  
+  - Über den eGov-Campus: 'about.md'
