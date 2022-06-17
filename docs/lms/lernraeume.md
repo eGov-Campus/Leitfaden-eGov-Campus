@@ -8,7 +8,7 @@ Mit den Lernräumen können zu verschiedenen Kursen sich TeilnehmerInnen (TN) zu
 
 Unter dem Reiter Lernräume können Sie neue Lernräume anlegen. Bitte klicken Sie auf den entsprechenden Button. Dann öffnet sich der folgende Bereich:
 
-![Neuen Lernraum Anlegen](docs/images/items/testraum-anlegen.png)
+![Neuen Lernraum Anlegen](/images/items/lernraum-anlegen.png)
 
 **Name:**
 Bitte geben Sie einen Namen für den Lernraum ein (Pflichtfeld).

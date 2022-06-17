@@ -84,4 +84,66 @@ Nun kann man den Aufgabentyp festlegen, der im folgenden weiter erklärt wird:
 3. Benotet
 4. Bonus
 
+### Selbsttest
 
+Ein Selbsttest dient den Teilnehmern dazu, Ihr eigenen Wissensstand zu überprüfen. Die Aufgaben sind nicht bewertet.
+
+### Survey
+
+Ein Survey dient dazu, eine Umfrage der Kursteilnehmer zu dem Kurs zu erstellen. So erhalten Sie Rückmeldungen bezüglich Ihrer Inhalte und der Aufbereitung in diesem Kursformat.
+
+### Benotet
+
+Ein benoteter Test dient dazu, die Leistung der Teilnehmenden abzufragen. 
+
+### Bonus
+
+Ein Bonus-Quiz ist eine weitere Form des benoteten Quiz. Hiermit können Teilnehmende Bonuspunkte sammeln, um die Gesamtbenotung, die man durch die benoteten Quiz erhält, aufzubessern. 
+
+**Klicken Sie abschließend auf Fertigstellen**
+
+## Einträge zu Assessments hinzufügen
+
+Anders als bei anderen Items kann man neue Einträge nicht über die Kursübersicht zum passenden Item auf bearbeiten klicken. Dafür gibt es einen eigenen Bereich in der Kursadministration:
+
+![Navigation zu Peer Assessments](/images/items/go2peerAssessements.png)
+
+
+Hier finden Sie nun eine Auflistung aller Peer Assessments, die Sie zu einem Kurs angelegt haben. 
+
+Um auf das Bearbeitungsfenster zuzugreifen, klicken Sie bitte auf den türkisen *Bearbeiten*-Button.
+
+Oberhalb des Peer Assessments finden Sie eine Navigationsbar, die Sie durch die Einstellungen leitet. 
+
+Dabei handelt es sich um:
+
+- Allgemeine Konfiguration
+- Dateianhänge
+- Workflow Phasen
+- Bewertungskriterien
+
+
+### 1. Allgemeine Konfiguration
+
+Nachdem Sie einen Titel eingegeben haben, können Sie jeweils in Textfeldern eine 
+- Anleitung
+- Hinweise zur Bewertung
+- Nutzungsbedingungen
+hinzufügen. Die Art und Weise, wie man diese befüllt, ist in der Anleitung *Texte schreiben* beschrieben. Daher wird an dieser Stelle nicht weiter darauf eingegangen. 
+
+**Galerie opt-out erlauben**: ???
+
+**Als Team-Aufgabe**: Hier können Sie einstellen, ob die Lösung der Peer-Assessment Aufgabe als Team gelöst werden kann. Dementsprechend werden bei bewerteten Peer-Assessments (auch bei Bonus) die Punkte für alle Teammitglieder vergeben.
+
+
+### 2. Dateianhänge
+
+Hier können Sie für Teilnehmende sichtbar Dateianhänge hinzufügen. 
+
+### 3. Workflow Phasen
+
+
+# Fragen:
+
+Was ist mit Galerie opt-out gemeint?
+Wie mache ich in MKdocs querverweise? Sonst einfach über HTML?
