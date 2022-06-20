@@ -140,8 +140,42 @@ hinzufügen. Die Art und Weise, wie man diese befüllt, ist in der Anleitung *Te
 
 Hier können Sie für Teilnehmende sichtbar Dateianhänge hinzufügen. 
 
-### 3. Workflow Phasen
+### 3. Workflow Phasen - Das Verfahren
 
+Wie auch auf der Website beschrieben, können Sie hier die Workflow-Phasen angeben. Bevor darauf eingegangen wird, möchte ich erst auf die allgemeine Struktur eingehen:
+
+Die Workflow-Phasen bestehen aus insgesamt 5 Schritten:
+
+1. Abgabe
+
+Hier kann und sollte spätestens die Aufgabenstellung sowie die Bewertungskriterien bekannt gemacht werden. Dies wurde bereits zuvor unter "Allgemeine Kommunikation" erklärt. 
+Die Abgabe ist nicht zwingend. Wird jedoch nicht abgegeben, werden 0 Punkte vergeben. 
+
+2. Training
+
+An dieser Stelle kann das Bewerten der anderen Teilehmenden geübt werden. 
+Dafür werden von Ihnen, dem Teaching Team, 2-10 bewertete Abgaben inklusive der Bewerungsgrundlagen als Vorlage für die Teilnehmenden benötigt, damit diese eine Grundlage und Orientierungshilfe zur Hand haben. Teilnehmende können dann das Bewerten üben.
+Das System vergleicht abschließend die Bewertung der Teilnehmenden mit der des Teaching Teams. 
+Die Bewertung findet nach einem Punktesystem je nach Rubrik statt, was auch unter Punkt 3 weiter erläutert wird.
+
+Der Bereich Training ist standardmäßig ausgeschaltet. 
+
+3. Review und Bewerung
+
+Für die Bewertung muss eine Anzahl an geforderten Reviews der Teilnehmenden festgelegt werden. (Prüfen)
+Als Orientierung: Die Maximalanzahl sollte der Hälfte der Mindestanzahl entsprechen. 
+Die Bewertung findet pro Rubrik in einem Punktesystem statt. Ein Review kann über einen Freitext vergeben werden. Darüber hinaus ist es **auch den Kursteilnehmenden** möglich, Abgaben zu melden, wenn diese plagiatbehaftet sind, unangemessene Inhalte enthalten oder Inhalte fehlen (z. B. wenn zu wenig abgegeben wurde oder ein technisches Problem vorliegen könnte). Diese gemeldeten Abgaben zählen nicht als bewertet. 
+Um zu verhindern, dass sich Teilnehmende "durchmogeln" indem sie (viele) Abgaben melden, um sich nicht mit der Bewertung zu beschäftigen wird dadurch verhindert. Genauer gesagt: Wenn eine Meldung erfolgt, ist keine Wertung als Abgabe möglich.
+
+4. Self-Assessment:
+
+Beim Self-Assessment muss anfangs eingestellt werden, ob die Durchführung für die Teilnehmenden obligatorisch oder freiwillig ist. Die Bewertung findet wie in Punkt 3 erläutert, statt. Darüber hinaus sind auch Bonuspunkte möglich, wenn es eine Übereinstimmung mit der Bewertung des Teaching Teams übereinstimmt (Prüfen). 
+Das Self-Assessment kann auch parallel zum Review und der Bewertung stattfinden. 
+
+
+5. Ergebnisse und Review-Rating
+
+Nun werden vorerst die Gesamtergebnisse (nur die Gesamtergebnisse) angezeigt. Nun wird zur Bewertung der einzelnen Reviews aufgefordert (wer?). Sobald diese Bewertung durchgeführt wurde, können die Informationen im Detail angezeigt werden. Wie zuvor ist es nun auch möglich, erhaltene Reviews zu melden. Diese werden dann aus der Wertung genommen. 
 
 # Fragen:
 
