@@ -177,7 +177,23 @@ Das Self-Assessment kann auch parallel zum Review und der Bewertung stattfinden.
 
 Nun werden vorerst die Gesamtergebnisse (nur die Gesamtergebnisse) angezeigt. Nun wird zur Bewertung der einzelnen Reviews aufgefordert (wer?). Sobald diese Bewertung durchgeführt wurde, können die Informationen im Detail angezeigt werden. Wie zuvor ist es nun auch möglich, erhaltene Reviews zu melden. Diese werden dann aus der Wertung genommen. 
 
+
+### Anlegen der Workflowphasen
+
+1. Klicken Sie dafür im Konfigurationsbreich auf anlegen, nachdem Sie sich für die Phasen in dem Feld zuvor entschieden haben. Sie können auch später noch angeben, ob die Teilnahme an den Phasen Training und Selbstbewertung freiwillig oder verpflichtend von den Kursteilnehmenden bearbeitet werden müssen. 
+
+**Hinweis**: Bearbeiten Sie die nun erschienene Seite nur bearbeiten, wenn die Trainings- und/oder Bewertungsphase noch **nicht** begonnen hat. Andernfalls können Probleme in späteren Phasen auftreten. 
+
+2. Nun können Sie zu jeder Phase ein Veröffentlichungsdatum und ein Enddatum (Deadline) vergeben. Sie müssen kein explizites Veröffentlichungdatum angeben, die Deadline ist jedoch Pflicht.
+
+3. Bei der Trainingsphase und Selbstbewertungsphase können Sie nun zusätzlich einstellen, ob die Bearbeitung der Phasen durch die Teilnehmer freiwillig oder verpflichtend ist. Da
+
+4. In der Trainings- und Bewertungsphase können Sie nun noch die Anzahl der erforderlichen Reviews angeben, die die Teilnehmenden bearbeiten müssen. Eine Empfehlung wird entsprechend angezeigt. 
+
+
 # Fragen:
 
 Was ist mit Galerie opt-out gemeint?
+
+
 Wie mache ich in MKdocs querverweise? Sonst einfach über HTML?
