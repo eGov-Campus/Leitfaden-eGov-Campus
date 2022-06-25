@@ -57,7 +57,7 @@ Ein Survey dient dazu, eine Umfrage der Kursteilnehmer zu dem Kurs zu erstellen.
 
 **Abgabefrist:**  und **Abgabeveröffentlichungsdatum** können nach Bedarf eingestellt werden. 
 
-**Instructions** Hier können Hinweise für die Bearbeitung des Quiz verwendet werden. Für die Formatierung können die Buttons verwendet werden. Das Textfeld kann auch direkt mit Markdown beschrieben werden. 
+**Instructions** Hier können Hinweise für die Bearbeitung des Quiz verwendet werden. Für die Formatierung können die Buttons verwendet werden. Das Textfeld kann auch direkt mit Markdown (s. Texte Schreiben Anleitung) beschrieben werden. 
 
 **Unbegrenzte Zeit** ist voreingestellt; Die Bearbeitungszeit sollte nach Möglichkeit nicht begrenzt werden.
 
@@ -131,6 +131,4 @@ Zum Hinzufügen von Quizfragen, klicken Sie bitte auf Quizfragen.
 
 - Um Änderungen zu speichern, klicken Sie auf "Item Speichern". Sie bleiben danach auf der selben Seite.
 - Um Änderungen nach dem speichern anzusehen, klicken Sie auf "Item speichern und anzeigen".
-
-
 

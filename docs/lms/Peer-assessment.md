@@ -2,7 +2,7 @@
 
 ## Einführung/Methodik:
 
-Das Peer Assessment ist eine Methode, in dem mehrere Personen (=Peers) ein Produkt, zum Beispiel einen Aufsatz oder eine Präsentation, von anderen Personen bewerten. Damit soll ein iterativer Lernprozess unter allen Personen ausgelöst werden, wobei die Teilnehmenden dazu angeregt werden, sich gegenseitig zu reflektieren. Es handelt sich um eine kolloborative bzw. kooperative Lernmethode. 
+Das Peer Assessment ist eine Methode, in dem mehrere Personen (= Peers) ein Produkt, zum Beispiel einen Aufsatz oder eine Präsentation, von anderen Personen bewerten. Damit soll ein iterativer Lernprozess unter allen Personen ausgelöst werden, wobei die Teilnehmenden dazu angeregt werden, sich gegenseitig zu reflektieren. Es handelt sich um eine kolloborative bzw. kooperative Lernmethode. 
 Die Peers könnten in unserem Kontext also andere Kursteilnehmende sein, die sich gegenseitig bewerben. 
 
 ### Gut geeignete Aufgabentypen
@@ -154,7 +154,7 @@ Die Abgabe ist nicht zwingend. Wird jedoch nicht abgegeben, werden 0 Punkte verg
 2. Training
 
 An dieser Stelle kann das Bewerten der anderen Teilehmenden geübt werden. 
-Dafür werden von Ihnen, dem Teaching Team, 2-10 bewertete Abgaben inklusive der Bewerungsgrundlagen als Vorlage für die Teilnehmenden benötigt, damit diese eine Grundlage und Orientierungshilfe zur Hand haben. Teilnehmende können dann das Bewerten üben.
+Dafür werden von Ihnen, dem Teaching Team, 2-10 bewertete Abgaben inklusive der Bewertungsgrundlagen als Vorlage für die Teilnehmenden benötigt, damit diese eine Grundlage und Orientierungshilfe zur Hand haben. Teilnehmende können dann das Bewerten üben.
 Das System vergleicht abschließend die Bewertung der Teilnehmenden mit der des Teaching Teams. 
 Die Bewertung findet nach einem Punktesystem je nach Rubrik statt, was auch unter Punkt 3 weiter erläutert wird.
 
@@ -180,20 +180,14 @@ Nun werden vorerst die Gesamtergebnisse (nur die Gesamtergebnisse) angezeigt. Nu
 
 ### Anlegen der Workflowphasen
 
-1. Klicken Sie dafür im Konfigurationsbreich auf anlegen, nachdem Sie sich für die Phasen in dem Feld zuvor entschieden haben. Sie können auch später noch angeben, ob die Teilnahme an den Phasen Training und Selbstbewertung freiwillig oder verpflichtend von den Kursteilnehmenden bearbeitet werden müssen. 
+1. Klicken Sie dafür im Konfigurationsbereich auf anlegen, nachdem Sie sich für die Phasen in dem Feld zuvor entschieden haben. Sie können auch später noch angeben, ob die Teilnahme an den Phasen Training und Selbstbewertung freiwillig oder verpflichtend von den Kursteilnehmenden bearbeitet werden müssen. 
 
 **Hinweis**: Bearbeiten Sie die nun erschienene Seite nur bearbeiten, wenn die Trainings- und/oder Bewertungsphase noch **nicht** begonnen hat. Andernfalls können Probleme in späteren Phasen auftreten. 
 
-2. Nun können Sie zu jeder Phase ein Veröffentlichungsdatum und ein Enddatum (Deadline) vergeben. Sie müssen kein explizites Veröffentlichungdatum angeben, die Deadline ist jedoch Pflicht.
+2. Nun können Sie zu jeder Phase ein Veröffentlichungsdatum und ein Enddatum (Deadline) vergeben. Sie müssen kein explizites Veröffentlichungsdatum angeben, die Deadline ist jedoch Pflicht.
 
 3. Bei der Trainingsphase und Selbstbewertungsphase können Sie nun zusätzlich einstellen, ob die Bearbeitung der Phasen durch die Teilnehmer freiwillig oder verpflichtend ist. Da
 
 4. In der Trainings- und Bewertungsphase können Sie nun noch die Anzahl der erforderlichen Reviews angeben, die die Teilnehmenden bearbeiten müssen. Eine Empfehlung wird entsprechend angezeigt. 
 
 
-# Fragen:
-
-Was ist mit Galerie opt-out gemeint?
-
-
-Wie mache ich in MKdocs querverweise? Sonst einfach über HTML?

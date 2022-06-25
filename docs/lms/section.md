@@ -1,6 +1,6 @@
 # Sections
 
-Mit einer neuen Sektion erstellen Sie eine Art Kapitel für verschiedene Kursinhalte. In einer Section können Sie verschiedene Elemente in einem Sinnesabschnitt verbinden. Beispielsweise lassen sich Themeninhalte nach einem Überblick mit einem Vorlesungsvideo erklärt werden, mit weiteren Informationen vertieft und dann mit einem (Selbst-)Test überprüft werden. 
+Mit einer neuen Sektion erstellen Sie eine Art Kapitel für verschiedene Kursinhalte. In einer Section können Sie verschiedene Elemente in einem Abschnitt verbinden. Beispielsweise lassen sich Themeninhalte nach einem Überblick mit einem Vorlesungsvideo erklärt werden, mit weiteren Informationen vertieft und dann mit einem (Selbst-)Test überprüft werden. 
 
 ## 1. Neue Section erstellen
 
