@@ -53,6 +53,7 @@ nav:
   - Home: 'index.md'
   - Kursdesign:
     - Kurse konzipieren: 'kursdesign/kursdesign.md'
+    - Kursverwaltung: 'kursdesign/kursverwaltung.md'
   - Plattform:
     - Einführung ins LMS: 'lms/lms.md'
     - Neues Video einpflegen: 'lms/video.md'
