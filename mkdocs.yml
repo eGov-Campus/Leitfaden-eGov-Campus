@@ -30,17 +30,20 @@ markdown_extensions:
 docs_dir: docs
 theme:
   name: material
+  custom_dir: overrides
   language: de
   features:
     - content.tabs.link
     - navigation.instant
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
     - search.highlight
     - search.share
     - search.suggest
-    - header.autohide
   font:
     text: Encode Sans
   palette:
@@ -52,9 +55,15 @@ theme:
 nav:
   - Home: 'index.md'
   - Kursdesign:
-    - Kurse konzipieren: 'kursdesign/kursdesign.md'
+    - kursdesign/index.md
+    - Roadmap: 'kursdesign/roadmap.md'
+    - Zielgruppen: 'kursdesign/target.md'
+    - Lernziele: 'kursdesign/lernziel.md'
+    - Kursstruktur: 'kursdesign/struktur.md'
+    - Formate: 'kursdesign/format.md'
+    - Übungen: 'kursdesign/uebung.md'
   - Plattform:
-    - Einführung ins LMS: 'lms/lms.md'
+    - lms/index.md
     - Neues Video einpflegen: 'lms/video.md'
     - Quiz anlegen: 'lms/quiz.md'
     - Text einfügen: 'lms/text-schreiben.md'
