@@ -54,8 +54,8 @@ theme:
 
 nav:
   - Home: 'index.md'
- 	- Kurse konzipieren: 'kursdesign/kursdesign.md'
- 	- Kursverwaltung: 'kursdesign/kursverwaltung.md'
+  - Kursdesign:
+    - kursdesign/index.md
     - Roadmap: 'kursdesign/roadmap.md'
     - Zielgruppen: 'kursdesign/target.md'
     - Lernziele: 'kursdesign/lernziel.md'
