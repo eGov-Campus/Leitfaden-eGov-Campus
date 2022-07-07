@@ -6,7 +6,7 @@ Fangen wir zunächst mit der Navigation in der Dokumentation an:
 ## Aufbau
 In den Reitern oben in der Leiste sind unterschiedliche Aspekte der Kurserstellung thematisch geordnet. Bei Überschneidungen haben wir geeignete Passagen wechselseitig verlinkt.
 
-#### [Kursdesign](kursdesign/kursdesign.md)
+#### [Kursdesign](kursdesign/index.md)
 In diesem Abschnitt dreht sich alles rund ums Thema Kurskonzeption.
 
  * Wie baue ich eine passende Kursstruktur auf?
@@ -16,7 +16,7 @@ In diesem Abschnitt dreht sich alles rund ums Thema Kurskonzeption.
 
  Weil all diese Fragen auch eng mit der prakrischen Umsetzung verknüpft sind, finden Sie dort auch weiterführende Links zur Bedienung der Plattform.
 
-#### [Plattform](lms/lms.md)
+#### [Plattform](lms/index.md)
 
 ####[FAQs](faq.md)
 
