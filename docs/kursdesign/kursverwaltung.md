@@ -7,11 +7,14 @@
 Hier können Sie einige Daten zum Kurs eingeben.
 
 **Kurstitel**
-Hier handelt es sich um einen Pflichtfeld. Geben Sie bitte hier den Namen des Kurses ein.
+Hier handelt es sich um einen Pflichtfeld. Dieses Feld ist bereits mit dem Namen Ihres Kurses ausgefüllt. Er kann hier geändert werden.
+
 
 **Kurscode**
 Bei diesem Pflichtfeld handelt es sich um einen Code, der den Kurs klar identifiziert. So soll vermieden werden, dass Kurse mit den gleich Themen vertauscht werden. Mit diesem Code wird man direkt auf den Kurs verwiesen. Gleichzeitig ist er auch in der URL des Kurses zu finden, also: 
 <code>https://learn.egov-campus.org/courses/"Kurscode"/</code>
+
+**Bitte ändern Sie diesen nur nach Rücksprache**
 
 **Kurssprache**
 Die Sprache, in der der Kurs angeboten wird, muss hier verpflichtend angegeben werden.
