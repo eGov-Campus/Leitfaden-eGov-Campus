@@ -21,22 +21,39 @@
     }
 
     /*Tip Box */
-    :root {
-      --md-admonition-icon--egtip: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7l.128-39.2H112l.1 39.2zM192 0C90.02.32 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8 16.53 18.84 42.34 58.23 52.22 91.45.031.25.094.517.125.782h160.2c.031-.265.094-.516.125-.782 9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1 368 78.8 289.2.004 192 0zm96.4 260.1c-15.66 17.85-35.04 46.3-49.05 75.89h-94.61c-14.01-29.59-33.39-58.04-49.04-75.88C75.24 236.8 64 206.1 64 175.1 64 113.3 112.1 48.25 191.1 48 262.6 48 320 105.4 320 175.1c0 31-11.2 61.7-31.6 85zM176 80c-44.1 0-80 35.9-80 80 0 8.844 7.156 16 16 16s16-7.2 16-16c0-26.47 21.53-48 48-48 8.844 0 16-7.148 16-15.99S184.8 80 176 80z"/></svg>')'
-    }
-    .md-typeset .admonition.egtip,
-    .md-typeset details.egtip{
-      border-color: rgb(10,60,70);
+
+    .md-typeset .admonition.tip,
+    .md-typeset details.tip{
+      border-color: rgb(38,130,130);
       }
-    .md-typeset .egtip > .admonition-title,
-    .md-typeset .egtip > summary {
-     background-color: rgba(10, 60,70, 0.3);
-     border-color: rgb(10,60,70);
+    .md-typeset .tip > .admonition-title,
+    .md-typeset .tip > summary {
+     background-color: rgba(38, 130,130, 0.6);
+     border-color: rgb(38,130,130);
      color: rgb(10,60,70);
     }
 
-  /* Note Box */
-    .md-typeset .admonition.note,
-    .md-typeset details.note  {
-      border-color: #3A2A78;
+  /* help Box */
+    .md-typeset .admonition.help,
+    .md-typeset details.help  {
+      border-color: rgb(80,197,182);
       }
+      .md-typeset .help > .admonition-title,
+      .md-typeset .help > summary {
+       background-color: rgba(56, 244,208, 0.3);
+       border-color: rgb(80,197,182);
+       color: rgb(10,60,70);
+     }
+
+    /* Beispiel/Info Box */
+
+    .md-typeset .admonition.info,
+    .md-typeset details.info  {
+      border-color: rgb(56,244,208);
+      }
+      .md-typeset .info > .admonition-title,
+      .md-typeset .info > summary {
+       background-color: rgba(56, 244,208, 0.3);
+       border-color: rgb(56,244,208);
+       color: rgb(10,60,70);
+     }

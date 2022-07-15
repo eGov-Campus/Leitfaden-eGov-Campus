@@ -21,6 +21,8 @@ markdown_extensions:
   - def_list
   - md_in_html
   - admonition
+  - toc:
+      permalink: true
   - pymdownx.details
   - pymdownx.progressbar
   - pymdownx.emoji:
@@ -46,6 +48,9 @@ theme:
     - search.suggest
   font:
     text: Encode Sans
+  icon:
+    admonition:
+      tip: material/lightbulb-on-20
   palette:
    - scheme: eGov
 
@@ -57,6 +62,7 @@ nav:
   - Kursdesign:
     - kursdesign/index.md
     - Roadmap: 'kursdesign/map.md'
+    - Vorbereitung: 'kursdesign/vorbereitung.md'
     - Zielgruppen: 'kursdesign/target.md'
     - Lernziele: 'kursdesign/lernziel.md'
     - Kursstruktur: 'kursdesign/struktur.md'
@@ -64,6 +70,7 @@ nav:
     - Übungen: 'kursdesign/uebung.md'
   - Plattform:
     - lms/index.md
+    - Kursverwaltung: lms/kursverwaltung.md
     - Neues Video einpflegen: 'lms/video.md'
     - Quiz anlegen: 'lms/quiz.md'
     - Text einfügen: 'lms/text-schreiben.md'
