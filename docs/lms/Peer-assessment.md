@@ -160,7 +160,7 @@ Die Bewertung findet nach einem Punktesystem je nach Rubrik statt, was auch unte
 
 Der Bereich Training ist standardmäßig ausgeschaltet. 
 
-3. Review und Bewerung
+3. Review und Bewertung
 
 Für die Bewertung muss eine Anzahl an geforderten Reviews der Teilnehmenden festgelegt werden. (Prüfen)
 Als Orientierung: Die Maximalanzahl sollte der Hälfte der Mindestanzahl entsprechen. 
@@ -180,14 +180,23 @@ Nun werden vorerst die Gesamtergebnisse (nur die Gesamtergebnisse) angezeigt. Nu
 
 ### Anlegen der Workflowphasen
 
-1. Klicken Sie dafür im Konfigurationsbereich auf anlegen, nachdem Sie sich für die Phasen in dem Feld zuvor entschieden haben. Sie können auch später noch angeben, ob die Teilnahme an den Phasen Training und Selbstbewertung freiwillig oder verpflichtend von den Kursteilnehmenden bearbeitet werden müssen. 
+1. Klicken Sie dafür im Konfigurationsbereich auf **BEARBEITEN**, nachdem Sie sich für die Phasen in dem Feld zuvor entschieden haben. Sie können auch später noch angeben, ob die Teilnahme an den Phasen Training und Selbstbewertung freiwillig oder verpflichtend von den Kursteilnehmenden bearbeitet werden müssen. 
 
 **Hinweis**: Bearbeiten Sie die nun erschienene Seite nur bearbeiten, wenn die Trainings- und/oder Bewertungsphase noch **nicht** begonnen hat. Andernfalls können Probleme in späteren Phasen auftreten. 
 
-2. Nun können Sie zu jeder Phase ein Veröffentlichungsdatum und ein Enddatum (Deadline) vergeben. Sie müssen kein explizites Veröffentlichungsdatum angeben, die Deadline ist jedoch Pflicht.
+2. Nun können Sie zu jeder Phase ein **Veröffentlichungsdatum und ein Enddatum (Deadline)** vergeben. Sie müssen kein explizites Veröffentlichungsdatum angeben, die Deadline ist jedoch Pflicht.
 
 3. Bei der Trainingsphase und Selbstbewertungsphase können Sie nun zusätzlich einstellen, ob die Bearbeitung der Phasen durch die Teilnehmer freiwillig oder verpflichtend ist. Da
 
 4. In der Trainings- und Bewertungsphase können Sie nun noch die Anzahl der erforderlichen Reviews angeben, die die Teilnehmenden bearbeiten müssen. Eine Empfehlung wird entsprechend angezeigt. 
 
+5. Klicken Sie abschießend auf Phasen aktualisieren.
 
+## Bewertungskriterien anlegen
+
+1. Neue Rubrik hinzufügen
+Klicken Sie dazu im Bereich Bewertungskriterien auf "NEUE RUBRIC HINZUFÜGEN", wie auf dem Foto gezeigt. 
+
+![Navigation zu Peer Assessments](/images/items/Neue-Rubrik-Workflow.png)
+
+2. Danach werden Sie weitergeleitet, um die Anzahl an Bewertungskriterien festzulegen. Geben Sie hier die Anzahl an, die Sie erstellen möchten. Sie können auch später weitere Bewertungskriterien hinzufügen, indem Sie die selbe Funktion nutzen. 
