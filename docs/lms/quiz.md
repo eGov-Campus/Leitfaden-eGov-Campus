@@ -1,4 +1,4 @@
-##1. Neues Item erstellen
+## 1. Neues Item erstellen
 
 Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Quiz einer Sektion (hier später Link einfügen für Sektion erstellen) hinzuzufügen. Klicken Sie bei der passenden Sektion auf "Neues Item".
 
@@ -6,7 +6,7 @@ Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Quiz einer Sek
 		
 
 
-##2. Einstellungen
+## 2. Einstellungen
 
 Auf der nächsten Seite haben Sie nun die folgenden Optionen:
 
@@ -35,11 +35,11 @@ Dieser Button funktioniert nur, wenn das Quiz auch veröffentlicht wurde. Dadurc
 Damit markieren Sie, dass das Bearbeiten des Quiz nur optional ist. Dies zu aktivieren, eignet sich unter anderem, wenn man Hintergrundwissen vermitteln  oder einen tieferen Einblick in ein Thema geben möchte, das nicht notwendig für den Abschluss des Kurses ist. 
 
 
-##3. Verschiedene Quiz-Typen
+## 3. Verschiedene Quiz-Typen
 
 Anfangs möchten wir Sie über die verschiedenen Quiz-Typen informieren, damit Sie das für Sie sinnvollste Format auswählen. Anschließend finden Sie die verschiedenen Einstellungsmöglichkeiten. 
 
-###3.1 Selbsttest
+### 3.1 Selbsttest
 
 Ein Selbsttest dient den Teilnehmern dazu, Ihr eigenen Wissensstand zu überprüfen. Die Aufgaben sind nicht bewertet.
 
@@ -49,7 +49,7 @@ Ein Selbsttest dient den Teilnehmern dazu, Ihr eigenen Wissensstand zu überprü
 
 **Unbegrenzte Zeit** und **Unbegrenzte Versuche** sind standardmäßig eingeschaltet. Bei Bedarf können diese abgeschaltet werden und entsprechende Zeitlimits (in Sekunden) und die Maximalanzahl an Versuchen eingetragen werden. 
 
-###3.2 Survey
+### 3.2 Survey
 
 Ein Survey dient dazu, eine Umfrage der Kursteilnehmer zu dem Kurs zu erstellen. So erhalten Sie Rückmeldungen bezüglich Ihrer Inhalte und der Aufbereitung in diesem Kursformat.
 
@@ -63,7 +63,7 @@ Ein Survey dient dazu, eine Umfrage der Kursteilnehmer zu dem Kurs zu erstellen.
 
 **Versuche:** Die Anzahl der Versuche ist hier standardmäßig auf einen Versuch gestellt.
 
-###3.3. Benotet
+### 3.3. Benotet
 
 Ein benoteter Test dient dazu, die Leistung der Teilnehmenden abzufragen. 
 
@@ -78,7 +78,7 @@ Ein benoteter Test dient dazu, die Leistung der Teilnehmenden abzufragen.
 **Versuche:** Die Anzahl der Versuche ist hier standardmäßig auf einen Versuch gestellt. Diese kann bei Bedarf verändert werden. 
 
 
-###3.4 Bonus
+### 3.4 Bonus
 Ein Bonus-Quiz ist eine weitere Form des benoteten Quiz. Hiermit können Teilnehmende Bonuspunkte sammeln, um die Gesamtbenotung, die man durch die benoteten Quiz erhält, aufzubessern. 
 
 **Maximale Punktzahl:** Angabe nicht notwendig, wird durch die Summe der Bepunktung der Einzelaufgaben errechnet.
@@ -91,7 +91,7 @@ Ein Bonus-Quiz ist eine weitere Form des benoteten Quiz. Hiermit können Teilneh
 
 **Versuche:** Die Anzahl der Versuche ist hier standardmäßig auf einen Versuch gestellt. Diese kann bei Bedarf verändert werden. 
 
-##4. Hinzufügen von Fragen
+## 4. Hinzufügen von Fragen
 
 Zum Hinzufügen von Quizfragen, klicken Sie bitte auf Quizfragen.
 
@@ -111,7 +111,7 @@ Zum Hinzufügen von Quizfragen, klicken Sie bitte auf Quizfragen.
 
 	**Punkte**: Punkte für die Aufgabe (nach Schwierigkeit)
 
-	**Recap-Modus** Was ist das??
+	**Recap-Modus:** Wenn diese Einstellung verwendet wird, besteht für die Teilnehmenden die Möglichkeit, das Quiz erneut zu wiederholen. 
 
 3. Anlegen von Antworten
 
@@ -127,7 +127,7 @@ Zum Hinzufügen von Quizfragen, klicken Sie bitte auf Quizfragen.
 	
 	Bei Textantworten kann keine automatische Analyse erfolgen. Hier muss eine manuelle Korrektur durchgeführt werden. Diese Fragemöglichkeit sollte bei Selbsttests vermieden werden. 
 
-##5. Änderungen abspeichern
+## 5. Änderungen abspeichern
 
 - Um Änderungen zu speichern, klicken Sie auf "Item Speichern". Sie bleiben danach auf der selben Seite.
 - Um Änderungen nach dem speichern anzusehen, klicken Sie auf "Item speichern und anzeigen".

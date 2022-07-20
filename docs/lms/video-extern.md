@@ -1,4 +1,9 @@
-##1. Neues Item erstellen
+# Hinweis: 
+
+**Bitte verwenden Sie zum Upload das Video-Tool und nicht die externen Videos. Diese Möglichkeit sollte nur im Ausnahmefall verwendet werden.**
+
+
+## 1. Neues Item erstellen
 
 Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Videoelement einer Sektion (hier später Link einfügen für Sektion erstellen) hinzuzufügen. Klicken Sie bei der passenden Sektion auf "Neues Item".
 
@@ -6,7 +11,7 @@ Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Videoelement e
 		
 
 
-##2. Einstellungen
+## 2. Einstellungen
 
 Auf der nächsten Seite haben Sie nun die folgenden Optionen:
 
@@ -36,14 +41,14 @@ Damit markieren Sie, dass das Anschauen des Videos nur optional ist. Dies zu akt
 
 Sobald man als Typ "Video" auswählt, werden weitere Einstellungen sichtbar.
 
-##3. Einstellungen für externes Video
+## 3. Einstellungen für externes Video
 
 ### 3.1 Icon Typ einstellen
 
 Für das Einbinden von Webvideos sollten Sie als Icon-Typ "external_Video" verwenden. Wenn Sie Videos der Plattform YouTube einbinden wollen, können Sie auch den Icon-Typ "youtube" verwenden. **An der Bearbeitung ändert sich nichts. Lediglich das Icon in der Navigationsleiste wird durch das YouTube Logo ausgetauscht.**
 
 
-###3.2 Einfügen von Videos
+### 3.2 Einfügen von Videos
 
 Zu Beginn muss man bei dem YouTube-Video den Einbettungscode heraus kopieren. Dazu klicken Sie mit Rechtsklick in das Video und wählen bei dem Menü "Einbettungscode kopieren" (s. Screenshot). 
 
@@ -55,21 +60,21 @@ Nun müssen Sie den Text in das Feld "Markup" einfügen:
 
 Anschließend können Sie noch die Maße des Videos in der Seite anpassen. Dazu müssen Sie die Parameter ``width`` (Breite) und ``height`` (Höhe) anpassen. Das bedeutet, dass Sie die Zahlen, die nach dem Gleichheitszeichen in Anführungszeichen stehen, verändern. Sie können z. B. die folgende Einstellung verwenden: ``width="800" height="400"``.
 
-###3.3 Text hinzufügen
+### 3.3 Text hinzufügen
 
 Wahlweise können Sie auch eine Kombination aus Video und Text vornehmen. Beispielsweise können Sie unterhalb des Videos weitere Informationen bereitstellen oder weiterführende Informationsquellen angeben. 
 
-Bei Fragen dazu verweisen wir auf die folgende Anleitung. 
+Bei Fragen dazu verweisen wir auf die folgende [Anleitung](/docs/lms/text-schreiben.md). 
 
-##4. Beispiel 
+## 4. Beispiel 
 
-###4.1 Beispiel in Codeform
+### 4.1 Beispiel in Codeform
 
 **Hinweise:**  
 
 - Sie finden die Ansicht der Nutzer im nächsten Stichpunkt.  
 - Das Video und Thema für dieses Beispiel wurde rein zufällig gewählt. Es steht in keinem Zusammenhang zum eGov Campus.  
-- Bei Tipps zum schreiben von Texten, besuchen Sie bitte unsere Markdown-Anleitung (LINK)
+- Bei Tipps zum schreiben von Texten, besuchen Sie bitte unsere [Markdown-Anleitung](/docs/lms/text-schreiben.md)
 
 
 ``____``
@@ -88,7 +93,7 @@ Bei Fragen dazu verweisen wir auf die folgende Anleitung.
 ``____``
 
 
-###4.2 Beispiel - Ansicht für Nutzer
+### 4.2 Beispiel - Ansicht für Nutzer
 ____
 
 Dieses Video vertieft Ihr Wissen in die Nutzung von Creative Commons Lizenzen für die Lehre. Das Video Stammt von der Ruhr-Universität Bochum und steht dabei selbst unter einer dieser Lizenzen.
@@ -104,7 +109,7 @@ Weiterführende Informationen zu den Creative Commons Lizenzen finden Sie hier:
 
 ____
 
-##5. Änderungen abspeichern
+## 5. Änderungen abspeichern
 - Um Änderungen zu speichern, klicken Sie auf "Item Speichern". Sie bleiben danach auf der selben Seite
 - Um Änderungen nach dem speichern anzusehen, klicken Sie auf "Item speichern und anzeigen".
 

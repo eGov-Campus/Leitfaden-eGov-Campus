@@ -1,4 +1,4 @@
-##1. Neues Item erstellen
+## 1. Neues Item erstellen
 
 Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Videoelement einer Sektion (hier später Link einfügen für Sektion erstellen) hinzuzufügen. Klicken Sie bei der passenden Sektion auf "Neues Item".
 
@@ -6,7 +6,7 @@ Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Videoelement e
 		
 
 
-##2. Einstellungen
+## 2. Einstellungen
 
 Auf der nächsten Seite haben Sie nun die folgenden Optionen:
 
@@ -36,17 +36,17 @@ Damit markieren Sie, dass das Anschauen des Videos nur optional ist. Dies zu akt
 
 Sobald man als Typ "Video" auswählt, werden weitere Einstellungen sichtbar.
 
-**Hervorheben** <-- keine Ahnung, was das für eine Funktion hat
+**Hervorheben** Hiermit können Videos in der Kursübersicht hervorgehoben werden. Möglicherweise funktioniert das Hervorheben in der aktuellen Version nicht.
 
 **Open Mode erlaubt:** 
 
-Mit der Aktivierung dieser Funktion wird das Video auch für Suchmaschinen zugänglich gemacht. Sollte das gewünscht sein, sollte auch eine öffentliche Beschreibung angelegt werden, damit es durch die verwendeten Schlüsselwörter auch auffindbar ist. Bei der Verwendung dieser Funktion sollte insbesondere darauf geachtet werden, dass z. B. keine urheberrechtlich geschützten Bilder o. Ä. verwendet werden. 
+Mit der Aktivierung dieser Funktion wird das Video auch für Suchmaschinen zugänglich gemacht. Sollte das gewünscht sein, sollte auch eine öffentliche Beschreibung angelegt werden, damit es durch die verwendeten Schlüsselwörter auch auffindbar ist. Bei der Verwendung dieser Funktion sollte insbesondere darauf geachtet werden, dass z. B. keine urheberrechtlich geschützten Bilder o. Ä. verwendet werden (wie auch bei dem gesamten Kurs, da alles öffentlich ist). 
 
 **Beschreibung:**
 
 Der Text, den Sie bei Beschreibung hinterlegen, wird unter dem Video als "Über dieses Video" angezeigt. Eine Beschreibung ist optional.
 
-##3. Video Daten
+## 3. Video Daten
 
 ### 3.1 Video einpflegen
 
@@ -68,7 +68,7 @@ Unter "Video Daten" können *optional* die zugehörigen Videos ausgewählt werde
 </tr>
 </table>
 
-###3.2 Untertitel
+### 3.2 Untertitel
 
 *Untertitel sind optional*
 
@@ -84,7 +84,7 @@ Um Untertitel bereitzustellen, können Sie die folgenden Möglichkeiten nutzen:
 
 Eine Kombination beider Varianten ist möglich.
 
-##4. Zusätzliche Dateien
+## 4. Zusätzliche Dateien
 
 Hier können weitere Dateien den Nutzern bereitgestellt werden. Diese werden angezeigt als:
 
@@ -93,9 +93,9 @@ Hier können weitere Dateien den Nutzern bereitgestellt werden. Diese werden ang
 - "Reading material" wird den Nutzern angezeigt als "Lesematerial"
 
 
-##5. Änderungen abspeichern
+## 5. Änderungen abspeichern
 
 - Um Änderungen zu speichern, klicken Sie auf "Item Speichern". Sie bleiben danach auf der selben Seite
 - Um Änderungen nach dem speichern anzusehen, klicken Sie auf "Item speichern und anzeigen".
-- "Dieses Video mit allen Providern synchronisieren" -> ?
+- "Dieses Video mit allen Providern synchronisieren": Diese Einstellung können Sie ignorieren.
 - "Miniaturbilder des Videos (neu) erstellen" erstellt die Vorschaubilder des Players neu. 

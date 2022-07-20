@@ -2,7 +2,7 @@
 
 ## Einführung/Methodik:
 
-Das Peer Assessment ist eine Methode, in dem mehrere Personen (= Peers) ein Produkt, zum Beispiel einen Aufsatz oder eine Präsentation, von anderen Personen bewerten. Damit soll ein iterativer Lernprozess unter allen Personen ausgelöst werden, wobei die Teilnehmenden dazu angeregt werden, sich gegenseitig zu reflektieren. Es handelt sich um eine kolloborative bzw. kooperative Lernmethode. 
+Das Peer Assessment ist eine Methode, in dem mehrere Personen (= Peers) ein Produkt, zum Beispiel einen Aufsatz oder eine Präsentation, von anderen Personen bewerten. Damit soll ein iterativer Lernprozess unter allen Personen ausgelöst werden, wobei die Teilnehmenden dazu angeregt werden, sich gegenseitig zu reflektieren. Es handelt sich um eine kollaborative bzw. kooperative Lernmethode. 
 Die Peers könnten in unserem Kontext also andere Kursteilnehmende sein, die sich gegenseitig bewerben. 
 
 ### Gut geeignete Aufgabentypen
@@ -29,13 +29,13 @@ Die Aufzählung hier sind nur Beispiele. Natürlich lassen sich auch andere Aufg
 ### Nachteile
 
 - Oft ungerichtetes Feedback durch Peer Assessment
-- Feedbackqualität nicht immer gleich gut
-- Akzeptanzprobleme von anderen Teilnehmern kann auftreten
+- Die Feedbackqualität nicht immer gleich gut
+- Akzeptanzprobleme von anderen TeilnehmerInnen kann auftreten
 
 
 ## Anlegen von Peer Assessments
 
-##1. Neues Item erstellen
+## 1. Neues Item erstellen
 
 Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Videoelement einer Sektion (hier später Link einfügen für Sektion erstellen) hinzuzufügen. Klicken Sie bei der passenden Sektion auf "Neues Item".
 
@@ -43,7 +43,7 @@ Zu Beginn müssen Sie zur Kursübersicht navigieren, um ein neues Videoelement e
 		
 
 
-##2. Einstellungen
+## 2. Einstellungen
 
 Auf der nächsten Seite haben Sie nun die folgenden Optionen:
 
@@ -131,7 +131,7 @@ Nachdem Sie einen Titel eingegeben haben, können Sie jeweils in Textfeldern ein
 - Nutzungsbedingungen
 hinzufügen. Die Art und Weise, wie man diese befüllt, ist in der Anleitung *Texte schreiben* beschrieben. Daher wird an dieser Stelle nicht weiter darauf eingegangen. 
 
-**Galerie opt-out erlauben**: ???
+**Galerie opt-out erlauben**: Die Teilnehmenden werden als Galerie in einer Übersicht dargestellt. Wenn Sie den Teilnehmenden die Möglichkeit geben möchten, dass sie nicht in der Galerie angezeigt werden, können Sie die Einstellung wählen. 
 
 **Als Team-Aufgabe**: Hier können Sie einstellen, ob die Lösung der Peer-Assessment Aufgabe als Team gelöst werden kann. Dementsprechend werden bei bewerteten Peer-Assessments (auch bei Bonus) die Punkte für alle Teammitglieder vergeben.
 

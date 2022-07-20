@@ -7,7 +7,7 @@
 Hier können Sie einige Daten zum Kurs eingeben.
 
 **Kurstitel**
-Hier handelt es sich um einen Pflichtfeld. Dieses Feld ist bereits mit dem Namen Ihres Kurses ausgefüllt. Er kann hier geändert werden.
+Hier handelt es sich um einen Pflichtfeld. Dieses Feld ist bereits mit dem Namen Ihres Kurses ausgefüllt. Er kann hier bei Bedarf geändert werden.
 
 
 **Kurscode**
@@ -27,7 +27,7 @@ Dafür gibt es erst eine **kurze** und danach eine **lange** Beschreibung, die f
 
 ### Anschauungsmaterial
 
-Zur Vorstellung des Kurses können Sie ein **Kursbild** anlegen. Dieses wird dann in der Kursübersicht für alle Kurse angezeigt. Genauer gesagt - hier: https://egov-campus.org/lernmodule
+Zur Vorstellung des Kurses können Sie ein **Kursbild** anlegen. Dieses wird dann in der Kursübersicht für alle Kurse angezeigt. Genauer gesagt - bei den [Lernmodulen.](https://egov-campus.org/lernmodule)
 
 Darüber hinaus haben Sie die Möglichkeit, ein **Einführungsvideo** hochzuladen, in dem Sie die Inhalte erklären.
 
