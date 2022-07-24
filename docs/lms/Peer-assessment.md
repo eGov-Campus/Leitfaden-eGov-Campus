@@ -146,36 +146,37 @@ Wie auch auf der Website beschrieben, können Sie hier die Workflow-Phasen angeb
 
 Die Workflow-Phasen bestehen aus insgesamt 5 Schritten:
 
-1. Abgabe
+1. **Abgabe**
 
-Hier kann und sollte spätestens die Aufgabenstellung sowie die Bewertungskriterien bekannt gemacht werden. Dies wurde bereits zuvor unter "Allgemeine Kommunikation" erklärt. 
+	Hier kann und sollte spätestens die Aufgabenstellung sowie die Bewertungskriterien bekannt gemacht werden. Dies wurde bereits zuvor unter "Allgemeine Kommunikation" erklärt. 
 Die Abgabe ist nicht zwingend. Wird jedoch nicht abgegeben, werden 0 Punkte vergeben. 
 
-2. Training
+2. **Training**
 
-An dieser Stelle kann das Bewerten der anderen Teilehmenden geübt werden. 
+	An dieser Stelle kann das Bewerten der anderen Teilehmenden geübt werden. 
 Dafür werden von Ihnen, dem Teaching Team, 2-10 bewertete Abgaben inklusive der Bewertungsgrundlagen als Vorlage für die Teilnehmenden benötigt, damit diese eine Grundlage und Orientierungshilfe zur Hand haben. Teilnehmende können dann das Bewerten üben.
 Das System vergleicht abschließend die Bewertung der Teilnehmenden mit der des Teaching Teams. 
 Die Bewertung findet nach einem Punktesystem je nach Rubrik statt, was auch unter Punkt 3 weiter erläutert wird.
 
-Der Bereich Training ist standardmäßig ausgeschaltet. 
+	Der Bereich Training ist standardmäßig ausgeschaltet.   
 
-3. Review und Bewertung
 
-Für die Bewertung muss eine Anzahl an geforderten Reviews der Teilnehmenden festgelegt werden. (Prüfen)
-Als Orientierung: Die Maximalanzahl sollte der Hälfte der Mindestanzahl entsprechen. 
-Die Bewertung findet pro Rubrik in einem Punktesystem statt. Ein Review kann über einen Freitext vergeben werden. Darüber hinaus ist es **auch den Kursteilnehmenden** möglich, Abgaben zu melden, wenn diese plagiatbehaftet sind, unangemessene Inhalte enthalten oder Inhalte fehlen (z. B. wenn zu wenig abgegeben wurde oder ein technisches Problem vorliegen könnte). Diese gemeldeten Abgaben zählen nicht als bewertet. 
+3. **Review und Bewertung**
+
+	Für die Bewertung muss eine Anzahl an geforderten Reviews der Teilnehmenden festgelegt werden.  
+Als Orientierung: Die Maximalanzahl sollte der Hälfte der Mindestanzahl entsprechen.   
+Die Bewertung findet pro Rubrik in einem Punktesystem statt. Ein Review kann über einen Freitext vergeben werden. Darüber hinaus ist es **auch den Kursteilnehmenden** möglich, Abgaben zu melden, wenn diese plagiatbehaftet sind, unangemessene Inhalte enthalten oder Inhalte fehlen (z. B. wenn zu wenig abgegeben wurde oder ein technisches Problem vorliegen könnte). Diese gemeldeten Abgaben zählen nicht als bewertet.   
 Um zu verhindern, dass sich Teilnehmende "durchmogeln" indem sie (viele) Abgaben melden, um sich nicht mit der Bewertung zu beschäftigen wird dadurch verhindert. Genauer gesagt: Wenn eine Meldung erfolgt, ist keine Wertung als Abgabe möglich.
 
-4. Self-Assessment:
+4. **Self-Assessment**
 
-Beim Self-Assessment muss anfangs eingestellt werden, ob die Durchführung für die Teilnehmenden obligatorisch oder freiwillig ist. Die Bewertung findet wie in Punkt 3 erläutert, statt. Darüber hinaus sind auch Bonuspunkte möglich, wenn es eine Übereinstimmung mit der Bewertung des Teaching Teams übereinstimmt (Prüfen). 
+	Beim Self-Assessment muss anfangs eingestellt werden, ob die Durchführung für die Teilnehmenden obligatorisch oder freiwillig ist. Die Bewertung findet wie in Punkt 3 erläutert, statt. Darüber hinaus sind auch Bonuspunkte möglich, wenn es eine Übereinstimmung mit der Bewertung des Teaching Teams übereinstimmt (Prüfen). 
 Das Self-Assessment kann auch parallel zum Review und der Bewertung stattfinden. 
 
 
-5. Ergebnisse und Review-Rating
+5. **Ergebnisse und Review-Rating**
 
-Nun werden vorerst die Gesamtergebnisse (nur die Gesamtergebnisse) angezeigt. Nun wird zur Bewertung der einzelnen Reviews aufgefordert (wer?). Sobald diese Bewertung durchgeführt wurde, können die Informationen im Detail angezeigt werden. Wie zuvor ist es nun auch möglich, erhaltene Reviews zu melden. Diese werden dann aus der Wertung genommen. 
+	Nun werden vorerst die Gesamtergebnisse (nur die Gesamtergebnisse) angezeigt. Nun wird zur Bewertung der einzelnen Reviews aufgefordert (wer?). Sobald diese Bewertung durchgeführt wurde, können die Informationen im Detail angezeigt werden. Wie zuvor ist es nun auch möglich, erhaltene Reviews zu melden. Diese werden dann aus der Wertung genommen. 
 
 
 ### Anlegen der Workflowphasen
@@ -200,3 +201,51 @@ Klicken Sie dazu im Bereich Bewertungskriterien auf "NEUE RUBRIC HINZUFÜGEN", w
 ![Navigation zu Peer Assessments](/images/items/Neue-Rubrik-Workflow.png)
 
 2. Danach werden Sie weitergeleitet, um die Anzahl an Bewertungskriterien festzulegen. Geben Sie hier die Anzahl an, die Sie erstellen möchten. Sie können auch später weitere Bewertungskriterien hinzufügen, indem Sie die selbe Funktion nutzen. 
+
+3. Nun öffnet sich darunter ein Bereich, in dem Sie für jedes Bewertungskriterium die folgenden Felder füllen müssen: 
+
+	a. **Titel des Bewertungskriteriums**
+
+	Geben Sie Hier den Titel des Bewertungskriteriums an.
+
+	b. **Allgemeine Hinweise**
+
+	Hier können Sie allgemeine Hinweise zum Bewerten als Richtlinie angeben.
+
+	c. **Bewertungsoptionen**
+
+	Hier können Sie angeben, wie viele Punkte pro Bewertungskriterium vergeben werden können. Darüber hinaus können Sie für jedes dieser Bewertungsoptionen noch einen weiteren Hinweis vergeben. 
+
+Beispiel:
+
+![Rubrik Beispiel](/images/items/Neue-Rubrik-Workflow.png)
+
+
+4. Klicken Sie nun auf "BEWERTUNGSKRITERIUM ERSTELLEN".
+
+5. Sie werden wieder auf die vorherige Seite weitergeleitet. Diese sieht dann in etwa so aus:
+
+![Bewertungskriterien mit Beispielen](/images/items/Übersicht-Peer-Assessments-mit-Kriterien.png)
+
+### Bewertungskriterien bearbeiten
+
+
+Auf der Übersichtsseite sehen Sie neben jedem Beispiel-Bewertungskriterium 4s Buttons:
+
+1. **Ein Stift-Symbol**
+
+	Hiermit können Sie das Kriterium bearbeiten. Sie gelangend wieder zu der vorherigen Ansicht. 
+
+3. **Ein rotes Kreuz**
+
+	Damit wird das Bewertungskriterium gelöscht.
+
+3. **Einen Pfeil nach oben**
+
+	Wenn Sie auf diesen Pfeil klicken, wird das Bewertungskriterium eine Stelle nach oben verschoben. 
+
+4. **Einen Pfeil nach unten**
+
+	Analog wird hier das Bewertungskriterium eine Stelle nach unten verschoben. 
+
+
