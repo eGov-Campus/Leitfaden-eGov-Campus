@@ -1,4 +1,4 @@
-# Kursverwaltung
+# Kurseinstellungen
 
 ## Allgemeine Kurseinstellungen
 
@@ -66,21 +66,79 @@ Sie können hier Einstellen, in welchem Status sich ein Kurs befindet. Es gibt d
 
 **Kurs ist versteckt**
 
+Wenn diese Einstellung aktiviert ist, kann man den Kurs nur betreten, wenn man von einem der Kursadministratoren zu dem Kurs eingeladen wird. Eine Selbsteinschreibung ist so also nicht möglich.
+
 **Auf Kursliste zeigen**
+
+Wenn diese Einstellung aktiviert ist, wird der Kurs auf der Kursübersicht nicht angezeigt. Über den direkten Link ist jedoch ein Zugriff auf den Kurs nicht möglich (außer, es ist die Einstellung "Kurs ist versteckt" zusätzlich aktiviert.
 
 ### Einschreibung
 
-****
+**Wilkommensmail**
+
+Wenn diese Einstellung aktiviert ist, wird eine E-Mail an die Kursteilnehmenden versendet, wenn diese sich in den Kurs eingeschrieben haben. 
+Wir empfehlen eine kurze Wilkommensmail aus zwei Gründen:
+
+1. So wird den Teilnehmenden bestätigt, dass mit der Einschreibung alles geklappt hat.
+2. Sie können den Teilnehmenden wichtige Informationen zukommen lassen, die bei dem Kurs beachtet werden sollen.
+
+Bei Tipps und Tricks zur Formatierung hilft Ihnen unsere Anleitung zum ![Texte schreiben](/docs/lms/text-schreiben/) weiter.
+
+**Einladung benötigt**
+
+Hier können Sie einstellen, dass man den Kurs nur mit Einladung betreten werden kann. Wenn Sie diese Einstellung wählen, müssen Sie eine externe Regristrierungs-URL verwenden. 
+Nutzen Sie daher nach Möglichkeit dieses Feature nicht. 
+
+**Policy-URL**
+
+Diese Einstellung können Sie ignorieren.
 
 ### Features
 
+**Zeige Kursübersicht**
+
+Mit dieser Einstellung können Sie die Kursübersicht ein- oder ausstellen. Bitte lassen Sie diese Einstellung auf dem Standartwert (an). 
+
+**Herunterladen der Videos/Audios ermöglichen** 
+Diese Einstellung ist standardmäßig eingestellt. Wir empfehlen, die Einstellung auch angestellt zu lassen.
+
+**Has collab space**
+
+Diese Einstellung regelt, ob Teilnehmende Lernräume anlegen können. Bitte lassen Sie diese Einstellung eingestellt, um so den Teilnehmenden eine möglichst gute Lernerfahrung bieten zu können. 
+
 ### Leistungsnachweise
+
+**Teilnahmebestätigung anbieten**
+
+So können die Teilnehmenden automatisch eine Teilnahmebestätigung generieren lassen, die zum Beispiel vom Arbeitgeber gewünscht wird. Sobald Sie diese Funktion aktivieren, erscheint ein neues Feld darunter. Dort können Sie angeben, ab wann (Mindestpunktzahl) ein Teilnehmender eine Teilnahmebestätigung erhält.
+
+Da es z. T. vom Arbeitgeber gewünscht wird, bitten wir Sie, diese Funktion zu aktivieren.
+
+**Leistungsnachweis anbieten**
+
+So können die Teilnehmenden automatisch einen Leistungsnachweis generieren lassen, die zum Beispiel vom Arbeitgeber gewünscht wird. Sobald Sie diese Funktion aktivieren, erscheint ein neues Feld darunter. Dort können Sie angeben, ab wann (Mindestpunktzahl) ein Teilnehmender eine Teilnahmebestätigung erhält.
+
+Bitte aktivieren Sie diese Funktionen, wenn Sie Bewertungen in Ihren Kursen vornehmen. 
 
 ### Statistiken
 
-### Weitere Einstellungen
+Bitte lassen Sie diese Einstellungen unberührt.
+
+### Kursende
+
+**Leistungsnachweise freischalten**
+
+Hier können Sie einstellen, ob nach Kursende die Leistungsnachweise freigeschaltet werden sollen.
+
+**Forum schließen**
+
+Hier stellen Sie ein, ob das Forum nach Kursende geschlossen werden soll. Dann können keine Fragen mehr in dem Forum gefragt oder beantwortet werden. 
+
+??? warning "Klicken Sie abschließend auf **KURS SPEICHERN**, wenn Sie Änderungen vorgenommen haben."
+
+
+Bitte ignorieren Sie den Button **BERECHNE-KURS-RANKING**.
+
 
 
 ****
-
-![Kurseinstellungen](/images/items/Kursverwaltung.png)
